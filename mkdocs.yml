@@ -1,37 +1,31 @@
-site_name: Manual do Sistema de Gestão de Acesso (SGA)
+site_name: Coleção de Boas Práticas para Melhoria da Experiência do Usuário 
+
+Guia 02  
+
+SISTEMA DE CONCESSÃO DE DIÁRIAS E PASSAGENS (SCDP)
 
 theme:
   name: readthedocs
 
 nav:
   - Início: index.md
-
-  - Manual:
-      - 1. Apresentação: apresentacao.md
-      - 2. Introdução: introducao.md
-      - 3. Lista de Siglas: lista-siglas.md
-      - 4. Glossário: glossario.md
-      - 5. Objetivo: objetivo.md
-      - 6. Enquadramento Institucional e Base Legal: enquadramento-legal.md
-      - 7. Sistema de Gestão de Acesso (SGA): sga.md
-      - 8. Visão Geral do Processo de Adesão: processo-adesao.md
-      - 9. Preenchimento do Formulário: formulario.md
-      - 10. Perfis de Acesso: perfis-acesso.md
-      - 11. Cadastramento de Usuários e Perfis: usuarios.md
-      - 12. Geração e Encaminhamento do Termo de Acesso: termo-acesso.md
-      - 13. Acompanhamento da Solicitação: acompanhamento.md
-      - 14. Solicitação de Novos Acessos: novos-acessos.md
-      - 15. Gestão dos Usuários: gestao-usuarios.md
-      - 16. Acesso ao SGA com Gov.br: login-govbr.md
-      - 17. Perguntas e Respostas: perguntas-respostas.md
-      - 18. Disposições Finais: disposicoes-finais.md
-      - 19. Manual Completo: manual-completo.md
-
-  - Informações Institucionais:
-  
-      - Ficha Institucional: ficha-institucional.md
-      - Ficha Técnica: ficha-tecnica.md
-      - Histórico de Versões: historico-versoes.md
+  - Prestação de Contas:
+      - 1.O que é: prestacao-de-contas.md
+      - 2.Papéis e Responsabilidades: papeis-e-responsabilidades.md
+      - 3.Prazo e Consequências: prazo-e-consequencias.md
+      - 4.Aplicativo ou Web: aplicativo-ou-web.md
+      - 5.Passo a Passo no Aplicativo: passo-a-passo-aplicativo.md
+      - 6.Passo a Passo no SCDP Web: passo-a-passo-web.md
+      - 7.Documentos: documentos.md
+      - 8.Pendências: pendencias.md
+      - 9.Exceções e Devolução: excecoes-e-devolucao.md
+      - 10.Status e Avisos: status-e-avisos.md
+      - 11.Soluções Rápidas: solucoes-rapidas.md
+      - 12.Central de Atendimento: central-de-atendimento.md
+      - 13.Checklists: checklists.md
+      - 14.Perguntas Frequentes: faq.md
+      - 15.Glossário: glossario.md
+      - 16.Referências: referencias.md
 
 
 extra_css:
