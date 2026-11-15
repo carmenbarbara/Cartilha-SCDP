@@ -10,20 +10,20 @@ theme:
 nav:
   - Início: index.md
   - Prestação de Contas:
-      - 1.O que é: prestacao-de-contas.md
-      - 2.Papéis e Responsabilidades: papeis-e-responsabilidades.md
-      - 3.Prazo e Consequências: prazo-e-consequencias.md
-      - 4.Aplicativo ou Web: aplicativo-ou-web.md
-      - 5.Passo a Passo no Aplicativo: passo-a-passo-aplicativo.md
-      - 6.Passo a Passo no SCDP Web: passo-a-passo-web.md
-      - 7.Documentos: documentos.md
-      - 8.Pendências: pendencias.md
-      - 9.Exceções e Devolução: excecoes-e-devolucao.md
-      - 10.Status e Avisos: status-e-avisos.md
-      - 11.Soluções Rápidas: solucoes-rapidas.md
-      - 12.Central de Atendimento: central-de-atendimento.md
-      - 13.Checklists: checklists.md
-      - 14.Perguntas Frequentes: faq.md
+      - 1.O que é a prestação de contas: prestacao-de-contas.md
+      - 2.Quem faz o que no processo: papeis-e-responsabilidades.md
+      - 3.Prazo e consequências: prazo-e-consequencias.md
+      - 4.Aplicativo no celular ou computador: aplicativo-ou-web.md
+      - 5.Passo a Passo no aplicativo: passo-a-passo-aplicativo.md
+      - 6.Passo a Passo no SCDP web: passo-a-passo-web.md
+      - 7.Documentos e comprovação de bilhetes: documentos.md
+      - 8.Minha prestação de contas voltou. E agora?: pendencias.md
+      - 9.Exceções e devoluções de valores: excecoes-e-devolucao.md
+      - 10.Como acompanhar:status e avisos: status-e-avisos.md
+      - 11.Deu problema? Soluções rápidas: solucoes-rapidas.md
+      - 12.Quando e como procurar a Central de Atendimento: central-de-atendimento.md
+      - 13.Listas de verificação por perfil: checklists.md
+      - 14.Perguntas e respostas: perguntas-respostas.md
       - 15.Glossário: glossario.md
       - 16.Referências: referencias.md
 
