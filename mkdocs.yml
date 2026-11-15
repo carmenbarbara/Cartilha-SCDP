@@ -1,32 +1,28 @@
-site_name: Coleção de Boas Práticas para Melhoria da Experiência do Usuário 
-
-Guia 02  
-
-SISTEMA DE CONCESSÃO DE DIÁRIAS E PASSAGENS (SCDP)
+site_name: "Coleção de Boas Práticas para Melhoria da Experiência do Usuário - Guia 02 - Sistema de Concessão de Diárias e Passagens (SCDP)"
 
 theme:
   name: readthedocs
 
 nav:
   - Início: index.md
-  - Prestação de Contas:
-      - 1.O que é a prestação de contas: prestacao-de-contas.md
-      - 2.Quem faz o que no processo: papeis-e-responsabilidades.md
-      - 3.Prazo e consequências: prazo-e-consequencias.md
-      - 4.Aplicativo no celular ou computador: aplicativo-ou-web.md
-      - 5.Passo a Passo no aplicativo: passo-a-passo-aplicativo.md
-      - 6.Passo a Passo no SCDP web: passo-a-passo-web.md
-      - 7.Documentos e comprovação de bilhetes: documentos.md
-      - 8.Minha prestação de contas voltou. E agora?: pendencias.md
-      - 9.Exceções e devoluções de valores: excecoes-e-devolucao.md
-      - 10.Como acompanhar:status e avisos: status-e-avisos.md
-      - 11.Deu problema? Soluções rápidas: solucoes-rapidas.md
-      - 12.Quando e como procurar a Central de Atendimento: central-de-atendimento.md
-      - 13.Listas de verificação por perfil: checklists.md
-      - 14.Perguntas e respostas: perguntas-respostas.md
-      - 15.Glossário: glossario.md
-      - 16.Referências: referencias.md
 
+  - Prestação de Contas:
+      - "1. O que é a prestação de contas": prestacao-de-contas.md
+      - "2. Quem faz o que no processo": papeis-e-responsabilidades.md
+      - "3. Prazo e consequências": prazo-e-consequencias.md
+      - "4. Aplicativo no celular ou computador": aplicativo-ou-web.md
+      - "5. Passo a Passo no aplicativo": passo-a-passo-aplicativo.md
+      - "6. Passo a Passo no SCDP web": passo-a-passo-web.md
+      - "7. Documentos e comprovação de bilhetes": documentos.md
+      - "8. Minha prestação de contas voltou. E agora?": pendencias.md
+      - "9. Exceções e devoluções de valores": excecoes-e-devolucao.md
+      - "10. Como acompanhar: status e avisos": status-e-avisos.md
+      - "11. Deu problema? Soluções rápidas": solucoes-rapidas.md
+      - "12. Quando e como procurar a Central de Atendimento": central-de-atendimento.md
+      - "13. Listas de verificação por perfil": checklists.md
+      - "14. Perguntas e respostas": perguntas-respostas.md
+      - "15. Glossário": glossario.md
+      - "16. Referências": referencias.md
 
 extra_css:
   - custom.css
