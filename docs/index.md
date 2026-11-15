@@ -80,7 +80,8 @@ Você pode acessar as seções específicas utilizando o menu lateral ou navegar
 *Figura 1 - Visão geral do processo de prestação de contas*  
 
 
-!!! Warning Note (Nota)
+!!! warning "Nota"
+
     A contagem do prazo começa no retorno da viagem.   
     A prestação de contas deve estar registrada no SCDP em até 5 dias do retorno. Por isso, não deixe para o último dia.    
 
