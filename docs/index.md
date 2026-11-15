@@ -30,7 +30,45 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 </div>
 
+<p style="font-weight: bold; color: #d9534f; margin-top: 10px; margin-bottom: 20px;">
+PÚBLICO-ALVO: SERVIDORES E AGENTES PÚBLICOS USUÁRIOS DO SERVIÇO DO SISTEMA DE CONCESSÃO DE DIÁRIAS E PASSAGENS. 
+</p>
 
+ ## Coleção de Boas Práticas para Melhoria da Experiência do Usuário    
+### Guia 02     
+
+# SISTEMA DE CONCESSÃO DE DIÁRIAS E PASSAGENS (SCDP)     
+**Prestação de contas de viagens: pelo aplicativo ou pelo computador** 
+
+Esta cartilha orienta como prestar contas de uma viagem a serviço, tanto pelo aplicativo quanto pelo computador. Também apresenta as instruções para que o **solicitante de viagem** possa analisar e concluir o processo. 
+
+Para encontrar a orientação desejada, localize sua situação na lista abaixo e consulte a seção indicada. 
+
+---
+
+## Formatos de Visualização
+
+Você pode acessar as seções específicas utilizando o menu lateral ou navegar diretamente pelas páginas principais do manual.
+
+* [1. O que é a prestação de contas? ](apresentacao.md)
+* [2. Quem faz o que no processo?](introducao.md)
+* [3. Prazo e consequências](lista-siglas.md)
+* [4. Aplicativo ou computador: qual usar?](glossario.md)
+* [5. Passo a passo pelo aplicativo](objetivo.md)
+* [6. Passo a passo pelo computador](enquadramento-legal.md)
+* [7. Documentos e comprovação de bilhetes](sga.md)
+* [8. Minha prestação de contas voltou. E agora?](processo-adesao.md)
+* [9. Exceções e devolução de valores](formulario.md)
+* [10. Como acompanhar: status e avisos](perfis-acesso.md)
+* [11. Deu problema? Soluções rápidas](usuarios.md)
+* [12. Quando e como procurar a central](termo-acesso.md)
+* [13. Listas de verificação por perfil](checklists.md)
+* [14. Perguntas e respostas](perguntas-respostas.md)
+* [15. Glossário](glossario.md)
+* [16. Referências](referencias.md)
+* [18. Perguntas e Respostas](perguntas-respostas.md)
+* [19. Referências Bibliográficas](referencias.md)
+* [20. Guia Completo](cartilha-completa.md) 
 
 ---
 
