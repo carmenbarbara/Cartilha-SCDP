@@ -76,7 +76,6 @@ Você pode acessar as seções específicas utilizando o menu lateral ou navegar
 ---
 
 ![Figura1](Imagens/Figura1.png)
-
 *Figura 1 - Visão geral do processo de prestação de contas*  
 
 
