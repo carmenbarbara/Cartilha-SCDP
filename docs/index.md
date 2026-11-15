@@ -34,11 +34,10 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 PÚBLICO-ALVO: SERVIDORES E AGENTES PÚBLICOS USUÁRIOS DO SERVIÇO DO SISTEMA DE CONCESSÃO DE DIÁRIAS E PASSAGENS. 
 </p>
 
- ## Coleção de Boas Práticas para Melhoria da Experiência do Usuário    
-### Guia 02     
+### Coleção de Boas Práticas para Melhoria da Experiência do Usuário    
+### Guia 2           
 
-# SISTEMA DE CONCESSÃO DE DIÁRIAS E PASSAGENS (SCDP)     
-**Prestação de contas de viagens: pelo aplicativo ou pelo computador** 
+# SISTEMA DE CONCESSÃO DE DIÁRIAS E PASSAGENS (SCDP)      
 
 O Sistema de Concessão de Diárias e Passagens (SCDP) é a ferramenta do Governo Federal utilizada para solicitar, aprovar, registrar e prestar contas de viagens a serviço, tanto nacionais quanto internacionais. 
 
