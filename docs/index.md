@@ -50,25 +50,46 @@ Para encontrar a orientação desejada, localize sua situação na lista abaixo 
 
 Você pode acessar as seções específicas utilizando o menu lateral ou navegar diretamente pelas páginas principais do manual.
 
-* [1. O que é a prestação de contas? ](apresentacao.md)
-* [2. Quem faz o que no processo?](introducao.md)
-* [3. Prazo e consequências](lista-siglas.md)
-* [4. Aplicativo ou computador: qual usar?](glossario.md)
-* [5. Passo a passo pelo aplicativo](objetivo.md)
-* [6. Passo a passo pelo computador](enquadramento-legal.md)
-* [7. Documentos e comprovação de bilhetes](sga.md)
-* [8. Minha prestação de contas voltou. E agora?](processo-adesao.md)
-* [9. Exceções e devolução de valores](formulario.md)
-* [10. Como acompanhar: status e avisos](perfis-acesso.md)
-* [11. Deu problema? Soluções rápidas](usuarios.md)
-* [12. Quando e como procurar a central](termo-acesso.md)
+* [1. O que é a prestação de contas? ](o-que-e-prestacao-contas.md)
+* [2. Quem faz o que no processo?](papeis-e-responsabilidades.md)
+* [3. Prazo e consequências](prazo-e-consequencias.md)
+* [4. Aplicativo ou computador: qual usar?](aplicativo-ou-computador.md)
+* [5. Passo a passo pelo aplicativo](passo-a-passo-aplicativo.md)
+* [6. Passo a passo pelo computador](passo-a-passo-web.md)
+* [7. Documentos e comprovação de bilhetes](documentos.md)
+* [8. Minha prestação de contas voltou. E agora?](pendencias.md)
+* [9. Exceções e devolução de valores](excecoes.md)
+* [10. Como acompanhar: status e avisos](status-e-avisos.md)
+* [11. Deu problema? Soluções rápidas](solucoes-rapidas.md)
+* [12. Quando e como procurar a central](central-de-atendimento.md)
 * [13. Listas de verificação por perfil](checklists.md)
 * [14. Perguntas e respostas](perguntas-respostas.md)
 * [15. Glossário](glossario.md)
-* [16. Referências](referencias.md)
-* [18. Perguntas e Respostas](perguntas-respostas.md)
-* [19. Referências Bibliográficas](referencias.md)
-* [20. Guia Completo](cartilha-completa.md) 
+* [16. Perguntas e Respostas](perguntas-respostas.md)
+* [17. Referências](referencias.md)
+* [18. Guia Completo](cartilha-completa.md)
+
+---
+
+**O QUE É O SCDP:**  
+
+O Sistema de Concessão de Diárias e Passagens (SCDP) é a ferramenta do Governo Federal utilizada para solicitar, aprovar, registrar e prestar contas de viagens a serviço, tanto nacionais quanto internacionais. 
+
+Mesmo quando não há pagamento de diárias, a viagem deve ser registrada no sistema e a prestação de contas continua sendo obrigatória.  
+
+**REGRAS DO SEU ÓRGÃO:**  
+
+Esta cartilha apresenta as **regras gerais** do SCDP. O seu órgão pode adotar normas internas complementares. 
+
+Se houver alguma diferença entre as orientações desta cartilha e as normas do seu órgão, siga as orientações do **Solicitante de Viagem** ou do **Gestor Setorial do SCDP**. 
+
+Visão geral do processo de prestação de contas:   
+
+A contagem do prazo começa no retorno da viagem.  
+
+Figura-1 
+
+A prestação de contas deve estar registrada no SCDP em até 5 dias do retorno. Por isso, não deixe para o último dia. 
 
 ---
 
