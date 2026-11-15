@@ -40,11 +40,15 @@ PÚBLICO-ALVO: SERVIDORES E AGENTES PÚBLICOS USUÁRIOS DO SERVIÇO DO SISTEMA D
 # SISTEMA DE CONCESSÃO DE DIÁRIAS E PASSAGENS (SCDP)     
 **Prestação de contas de viagens: pelo aplicativo ou pelo computador** 
 
-Esta cartilha orienta como prestar contas de uma viagem a serviço, tanto pelo aplicativo quanto pelo computador. Também apresenta as instruções para que o **solicitante de viagem** possa analisar e concluir o processo. 
+O Sistema de Concessão de Diárias e Passagens (SCDP) é a ferramenta do Governo Federal utilizada para solicitar, aprovar, registrar e prestar contas de viagens a serviço, tanto nacionais quanto internacionais. 
+
+Esta cartilha orienta como prestar contas de uma viagem a serviço, tanto pelo aplicativo quanto pelo computador. Também apresenta as instruções para que o **Solicitante de Viagem** possa analisar e concluir o processo. Aqui, são apresentadas as **regras gerais** do SCDP. O seu órgão pode adotar normas internas complementares. 
+
+Se houver alguma diferença entre as orientações desta cartilha e as normas do seu órgão, siga as orientações do **Solicitante de Viagem** ou do **Gestor Setorial do SCDP**. 
+
+Mesmo quando não há pagamento de diárias, a viagem deve ser registrada no sistema e a prestação de contas continua sendo obrigatória.
 
 Para encontrar a orientação desejada, localize sua situação na lista abaixo e consulte a seção indicada. 
-
----
 
 ## Formatos de Visualização
 
@@ -71,25 +75,14 @@ Você pode acessar as seções específicas utilizando o menu lateral ou navegar
 
 ---
 
-**O QUE É O SCDP:**  
+![Figura 1](Imagens/Figura-1.png)
 
-O Sistema de Concessão de Diárias e Passagens (SCDP) é a ferramenta do Governo Federal utilizada para solicitar, aprovar, registrar e prestar contas de viagens a serviço, tanto nacionais quanto internacionais. 
+*Figura 1 - Visão geral do processo de prestação de contas*  
 
-Mesmo quando não há pagamento de diárias, a viagem deve ser registrada no sistema e a prestação de contas continua sendo obrigatória.  
 
-**REGRAS DO SEU ÓRGÃO:**  
-
-Esta cartilha apresenta as **regras gerais** do SCDP. O seu órgão pode adotar normas internas complementares. 
-
-Se houver alguma diferença entre as orientações desta cartilha e as normas do seu órgão, siga as orientações do **Solicitante de Viagem** ou do **Gestor Setorial do SCDP**. 
-
-Visão geral do processo de prestação de contas:   
-
-A contagem do prazo começa no retorno da viagem.  
-
-Figura-1 
-
-A prestação de contas deve estar registrada no SCDP em até 5 dias do retorno. Por isso, não deixe para o último dia. 
+!!! Warning Note (Nota)
+    A contagem do prazo começa no retorno da viagem.   
+    A prestação de contas deve estar registrada no SCDP em até 5 dias do retorno. Por isso, não deixe para o último dia.    
 
 ---
 
