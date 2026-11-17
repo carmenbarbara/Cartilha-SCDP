@@ -46,7 +46,8 @@ A prestação de contas envolve diferentes perfis no Sistema de Concessão de Di
 
     A Central de Atendimento não aprova prestações de contas, não altera registros e não realiza cadastros em nome dos usuários.
 
-No aplicativo,  o Proposto recebe notificações, verifica cada item que precisa de correção e guarda o protocolo de envio. Isso ajuda o viajante e o Solicitante de Viagem a concluir o processo mais rapidamente. 
+No aplicativo,  o Proposto recebe notificações, verifica cada item que precisa de correção e guarda o protocolo de envio. Isso ajuda o viajante e o Solicitante de Viagem a concluir o processo mais rapidamente.
+
 ---
 
 <div style="display: flex; justify-content: flex-end; margin: 20px 0;">
