@@ -1,0 +1,17 @@
+/* Remove a barra horizontal das tabelas */
+
+.wy-table-responsive {
+    overflow: visible !important;
+}
+
+.wy-table-responsive table {
+    width: 100% !important;
+    table-layout: fixed;
+}
+
+.wy-table-responsive table th,
+.wy-table-responsive table td {
+    white-space: normal !important;
+    word-wrap: break-word !important;
+    overflow-wrap: break-word !important;
+}
