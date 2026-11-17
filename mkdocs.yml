@@ -34,3 +34,6 @@ extra_javascript:
 markdown_extensions:
   - admonition
   - tables
+
+  extra_css:
+  - stylesheets/extra.css
