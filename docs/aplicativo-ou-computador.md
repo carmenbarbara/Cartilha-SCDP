@@ -78,7 +78,8 @@ Procure o Solicitante de Viagem responsável pelo afastamento para confirmar se 
     </tr>
 </table>
 
-!!! warning "Atenção"  
+!!! warning "Atenção"
+
     Se aparecer a mensagem **"Prestação de Contas iniciada pelo órgão que cadastrou a viagem"**, significa que o Solicitante de Viagem está conduzindo a prestação de contas no SCDP Web. Nesse caso, reúna os documentos necessários e encaminhe-os ao responsável pelo processo.
 
 ---
