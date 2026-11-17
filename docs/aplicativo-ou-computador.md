@@ -32,9 +32,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 # 4. Aplicativo ou computador: qual usar?
 
-*Diagrama - Figura 2*
-
-**Assuntos relacionados:** Passo a passo pelo aplicativo | Passo a passo pelo computador
+texto introdutório
 
 ### O botão "Preencher" aparece no aplicativo?
 
