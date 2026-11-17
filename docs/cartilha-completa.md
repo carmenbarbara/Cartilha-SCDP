@@ -83,7 +83,7 @@ As referências normativas citadas estão disponíveis ao final desta cartilha.
 
 ---
 
-# 2. Quem participa da prestação de contas?
+# 2. Quem faz o que no processo? 
 
 A prestação de contas envolve diferentes perfis no Sistema de Concessão de Diárias e Passagens (SCDP), cada um com responsabilidades específicas relacionadas ao registro, à análise e à aprovação das informações da viagem.
 
