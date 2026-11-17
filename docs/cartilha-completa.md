@@ -136,6 +136,43 @@ Também é possível iniciar a prestação de contas antes da viagem, por exempl
 
 ---
 
+# 4. Aplicativo ou computador: qual usar?
+
+texto introdutório
+
+### O botão "Preencher" aparece no aplicativo?
+
+✅ **Sim**
+
+Faça a prestação de contas pelo aplicativo SCDP. Preencha as informações solicitadas, anexe os documentos necessários, revise os dados e toque em **"Encaminhar"**.
+
+✅ **Não**
+
+Verifique se aparece a mensagem:
+
+> "Prestação de Contas iniciada pelo órgão que cadastrou a viagem."
+
+Se essa mensagem aparecer, a prestação de contas está sendo conduzida pelo Solicitante de Viagem no SCDP Web. Reúna os documentos necessários e encaminhe-os ao Solicitante responsável.
+
+✅ **Ainda tem dúvida?**
+
+Procure o Solicitante de Viagem responsável pelo afastamento para confirmar se a prestação de contas será realizada pelo aplicativo ou pelo SCDP Web.
+
+| Aplicativo SCDP | SCDP Web (computador) |
+|----------------|------------------------|
+| **Quem realiza a prestação de contas?** | |
+| O próprio Proposto (viajante). | O Solicitante de Viagem, utilizando os documentos fornecidos pelo Proposto. |
+| **Quando utilizar?** | |
+| Quando o botão **"Preencher"** estiver disponível na viagem. | Quando a prestação de contas estiver sendo realizada pelo órgão. |
+| **O que posso fazer?** | |
+| Informar dados da viagem, anexar documentos, resolver pendências e acompanhar o andamento da prestação de contas. | Registrar, analisar e ajustar informações, anexar documentos e encaminhar a prestação de contas para aprovação. |
+| **Como acompanhar o andamento?** | |
+| O aplicativo exibe a situação da prestação de contas e envia notificações. | O acompanhamento é realizado no SCDP Web até a aprovação final. |
+
+!!! warning "Atenção"
+
+    Se aparecer a mensagem **"Prestação de Contas iniciada pelo órgão que cadastrou a viagem"**, significa que o Solicitante de Viagem está conduzindo a prestação de contas no SCDP Web. Nesse caso, reúna os documentos necessários e encaminhe-os ao responsável pelo processo.
+
 # 5. Passo a passo pelo aplicativo
 
 **Assuntos relacionados:** Documentos e bilhetes | Minha prestação voltou
