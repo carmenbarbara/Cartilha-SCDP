@@ -30,6 +30,49 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 </div>
 
+<p style="font-weight: bold; color: #d9534f; margin-top: 10px; margin-bottom: 20px;">
+PÚBLICO-ALVO: SERVIDORES E AGENTES PÚBLICOS USUÁRIOS DO SERVIÇO DO SISTEMA DE CONCESSÃO DE DIÁRIAS E PASSAGENS. 
+</p>
+
+### Coleção de Boas Práticas para Melhoria da Experiência do Usuário    
+### Guia 2           
+
+# SISTEMA DE CONCESSÃO DE DIÁRIAS E PASSAGENS (SCDP)      
+
+O Sistema de Concessão de Diárias e Passagens (SCDP) é a ferramenta do Governo Federal utilizada para solicitar, aprovar, registrar e prestar contas de viagens a serviço, tanto nacionais quanto internacionais. 
+
+Esta cartilha orienta como prestar contas de uma viagem a serviço, tanto pelo aplicativo quanto pelo computador. Também apresenta as instruções para que o **Solicitante de Viagem** possa analisar e concluir o processo. Aqui, são apresentadas as **regras gerais** do SCDP. O seu órgão pode adotar normas internas complementares. 
+
+Se houver alguma diferença entre as orientações desta cartilha e as normas do seu órgão, siga as orientações do **Solicitante de Viagem** ou do **Gestor Setorial do SCDP**. 
+
+Mesmo quando não há pagamento de diárias, a viagem deve ser registrada no sistema e a prestação de contas continua sendo obrigatória.
+
+Para encontrar a orientação desejada, localize sua situação na lista abaixo e consulte a seção indicada. 
+
+## Formatos de Visualização
+
+Você pode acessar as seções específicas utilizando o menu lateral ou navegar diretamente pelas páginas principais do manual.
+
+* [1. O que é a prestação de contas? ](o-que-e-prestacao-contas.md)
+* [2. Quem faz o que no processo?](papeis-e-responsabilidades.md)
+* [3. Prazo e consequências](prazo-e-consequencias.md)
+* [4. Aplicativo ou computador: qual usar?](aplicativo-ou-computador.md)
+* [5. Passo a passo pelo aplicativo](passo-a-passo-aplicativo.md)
+* [6. Passo a passo pelo computador](passo-a-passo-web.md)
+* [7. Documentos e comprovação de bilhetes](documentos.md)
+* [8. Minha prestação de contas voltou. E agora?](pendencias.md)
+* [9. Exceções e devolução de valores](excecoes.md)
+* [10. Como acompanhar: status e avisos](status-e-avisos.md)
+* [11. Deu problema? Soluções rápidas](solucoes-rapidas.md)
+* [12. Quando e como procurar a central](central-de-atendimento.md)
+* [13. Listas de verificação por perfil](checklists.md)
+* [14. Perguntas e respostas](perguntas-respostas.md)
+* [15. Glossário](glossario.md)
+* [16. Perguntas e Respostas](perguntas-respostas.md)
+* [17. Referências](referencias.md)
+* [18. Guia Completo](cartilha-completa.md)
+
+---
 
 
 
