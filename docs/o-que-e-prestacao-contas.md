@@ -33,7 +33,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 # 1. O que é a prestação de contas?
 A prestação de contas é realizada no SCDP, mediante o registro das informações da viagem e o envio dos documentos que comprovam os deslocamentos e as atividades realizadas. Esse procedimento além de atender às exigências legais, contribui para a   transparência na aplicação dos recursos públicos, possibilita o acompanhamento pelos órgãos de controle e oferece maior segurança ao próprio viajante. 
 
-A obrigatoriedade da prestação de contas está prevista na Constituição Federal (art. 70, parágrafo único), no Decreto nº 5.992/2006 e na Instrução Normativa SLTI/MP nº 3/2015, que determina sua realização no SCDP em até cinco dias após o retorno da viagem. 
+A obrigatoriedade da prestação de contas está prevista na Constituição Federal (art. 70, parágrafo único), no <a href="https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/decreto/d5992.htm" target="_blank" rel="noopener noreferrer">Decreto nº 5.992, de 2006</a> e na <a href="https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-3-de-11-de-fevereiro-de-2015" target="_blank" rel="noopener noreferrer">Instrução Normativa SLTI/MP nº 3, de 2015</a>, que estabelece a realização da prestação de contas no SCDP no prazo de até cinco dias após o retorno da viagem.
 
 As referências normativas citadas estão disponíveis ao final desta cartilha. 
 
