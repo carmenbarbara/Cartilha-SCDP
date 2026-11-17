@@ -120,7 +120,7 @@ O SCDP envia uma notificação no dia seguinte ao término da viagem.
 
 Também é possível iniciar a prestação de contas antes da viagem, por exemplo, para informar que o afastamento não ocorreu.
 
-## O que acontece se eu não prestar contas?
+## 3.2 O que acontece se eu não prestar contas?
 
 | Situação | Consequência |
 |-----------|-----------|
