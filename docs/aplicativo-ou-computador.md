@@ -51,17 +51,12 @@ Se essa mensagem aparecer, a prestação de contas está sendo conduzida pelo So
 ✅ **Ainda tem dúvida?**
 
 Procure o Solicitante de Viagem responsável pelo afastamento para confirmar se a prestação de contas será realizada pelo aplicativo ou pelo SCDP Web.
-
-| Aplicativo SCDP | SCDP Web (computador) |
-|----------------|------------------------|
-| **Quem realiza a prestação de contas?** | |
-| O próprio Proposto (viajante). | O Solicitante de Viagem, utilizando os documentos fornecidos pelo Proposto. |
-| **Quando utilizar?** | |
-| Quando o botão **"Preencher"** estiver disponível na viagem. | Quando a prestação de contas estiver sendo realizada pelo órgão. |
-| **O que posso fazer?** | |
-| Informar dados da viagem, anexar documentos, resolver pendências e acompanhar o andamento da prestação de contas. | Registrar, analisar e ajustar informações, anexar documentos e encaminhar a prestação de contas para aprovação. |
-| **Como acompanhar o andamento?** | |
-| O aplicativo exibe a situação da prestação de contas e envia notificações. | O acompanhamento é realizado no SCDP Web até a aprovação final. |
+| Aspecto | Aplicativo SCDP | SCDP Web |
+|----------|----------|----------|
+| Quem realiza? | Proposto (viajante). | Solicitante de Viagem. |
+| Quando utilizar? | Quando o botão **"Preencher"** estiver disponível. | Quando a prestação de contas for conduzida pelo órgão. |
+| O que fazer? | Informar dados, anexar documentos, resolver pendências e acompanhar o processo. | Registrar, analisar, ajustar dados, anexar documentos e encaminhar para aprovação. |
+| Acompanhamento | Situação exibida no aplicativo com notificações. | Realizado no SCDP Web até a aprovação final. |
 
 !!! warning "Atenção"
 
