@@ -36,15 +36,15 @@ A prestação de contas envolve diferentes perfis no Sistema de Concessão de Di
 
 | Papel | O que faz na prestação de contas |
 |---------|---------|
-| **Proposto (quem viaja)** | Anexa os comprovantes da viagem por meio do aplicativo. Caso não seja possível enviá-los por esse canal, encaminha a documentação ao Solicitante de Viagem, que registrará a prestação de contas no SCDP Web. Se houver valores a devolver, o pagamento deverá ser efetuado por meio de Guia de Recolhimento da União (GRU). |
+| **Proposto (quem viaja)** | Anexa os comprovantes no aplicativo. Caso não seja possível enviá-los por esse canal, encaminha a documentação ao Solicitante de Viagem, que registrará a prestação de contas no SCDP Web. Se houver valores a devolver, o pagamento deverá ser efetuado por meio de Guia de Recolhimento da União (GRU). |
 | **Solicitante de Viagem** | Cadastra a viagem no SCDP Web e registra a prestação de contas com base nos documentos enviados pelo Proposto. Confere os dados e os anexos, realiza os ajustes necessários e encaminha a prestação de contas para aprovação. Emite a Guia de Recolhimento da União (GRU), quando houver valores a devolver. |
 | **Aprovador da Prestação de Contas (Ação Administrativa Proponente ou autoridade responsável)** | Analisa a prestação de contas e decide por sua aprovação, encerrando a viagem no sistema, ou por sua devolução para correção, indicando as pendências identificadas. |
-| **Gestor Setorial do SCDP** | Gerencia os usuários e os perfis de acesso do SCDP no órgão, bem como orienta sobre procedimentos relacionados às normas internas. |
+| **Gestor Setorial do SCDP** | Gerencia os usuários e os perfis de acesso do SCDP no órgão e orienta sobre procedimentos relacionados às normas internas. |
 | **Central de Atendimento** | Orienta os usuários sobre a utilização do sistema, registra ocorrências e realiza os encaminhamentos necessários. |
 
 !!! note "Nota"
 
-    A Central de Atendimento orienta sobre a utilização do sistema e registra ocorrências, mas não aprova prestações de contas, não altera registros e não realiza cadastros em nome dos usuários.
+    A Central de Atendimento não aprova prestações de contas, não altera registros e não realiza cadastros em nome dos usuários.
 
 ---
 
