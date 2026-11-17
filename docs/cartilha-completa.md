@@ -227,7 +227,7 @@ Se aparecer a mensagem **"O envio não pode ser realizado neste momento"**, agua
 2. Tente realizar o envio novamente mais tarde.
 3. Se a mensagem continuar sendo exibida, entre em contato com a Central de Atendimento e informe a mensagem apresentada pelo sistema.
 
-## Antes de solicitar atendimento, tenha em mãos:
+**Antes de solicitar atendimento, tenha em mãos:**
 
 1. Número da PCDP.
 2. Data e horário aproximados da ocorrência.
