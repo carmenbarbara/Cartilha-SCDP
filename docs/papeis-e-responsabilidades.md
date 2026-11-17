@@ -34,13 +34,12 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 A prestação de contas envolve diferentes perfis no Sistema de Concessão de Diárias e Passagens (SCDP), cada um com responsabilidades específicas relacionadas ao registro, à análise e à aprovação das informações da viagem.
 
-| Papel | O que faz na prestação de contas |
-|---------|---------|
-| **Proposto (quem viaja)** | Anexa os comprovantes no aplicativo. Caso não seja possível enviá-los por esse canal, encaminha a documentação ao Solicitante de Viagem, que registrará a prestação de contas no SCDP Web. Se houver valores a devolver, o pagamento deverá ser efetuado por meio de Guia de Recolhimento da União (GRU). |
-| **Solicitante de Viagem** | Cadastra a viagem no SCDP Web e registra a prestação de contas com base nos documentos enviados pelo Proposto. Confere os dados e os anexos, realiza os ajustes necessários e encaminha a prestação de contas para aprovação. Emite a Guia de Recolhimento da União (GRU), quando houver valores a devolver. |
-| **Aprovador da Prestação de Contas (Ação Administrativa Proponente ou autoridade responsável)** | Analisa a prestação de contas e decide por sua aprovação, encerrando a viagem no sistema, ou por sua devolução para correção, indicando as pendências identificadas. |
-| **Gestor Setorial do SCDP** | Gerencia os usuários e os perfis de acesso do SCDP no órgão e orienta sobre procedimentos relacionados às normas internas. |
-| **Central de Atendimento** | Orienta os usuários sobre a utilização do sistema, registra ocorrências e realiza os encaminhamentos necessários. |
+| Aspecto | Aplicativo SCDP | SCDP Web |
+|----------|----------|----------|
+| Quem realiza? | Proposto. | Solicitante de Viagem. |
+| Quando usar? | Quando o botão **Preencher** estiver disponível. | Quando a prestação de contas estiver sendo conduzida pelo órgão. |
+| O que fazer? | Informar dados, anexar documentos, resolver pendências e acompanhar o processo. | Registrar, analisar, ajustar informações, anexar documentos e encaminhar para aprovação. |
+| Como acompanhar? | Pelo aplicativo, com notificações e consulta da situação. | Pelo SCDP Web até a aprovação final. |
 
 !!! note "Nota"
 
