@@ -31,15 +31,11 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 </div>
 
 # 1. O que é a prestação de contas?
-A prestação de contas é o procedimento utilizado para comprovar que a viagem foi realizada de acordo com a autorização concedida. Enquanto esse procedimento não for concluído, a viagem permanecerá pendente no sistema.
+A prestação de contas é realizada no SCDP, mediante o registro das informações da viagem e o envio dos documentos que comprovam os deslocamentos e as atividades realizadas. Esse procedimento além de atender às exigências legais, contribui para a   transparência na aplicação dos recursos públicos, possibilita o acompanhamento pelos órgãos de controle e oferece maior segurança ao próprio viajante. 
 
-Essa pendência poderá impedir a autorização de novas viagens, conforme decisão da autoridade competente.
+A obrigatoriedade da prestação de contas está prevista na Constituição Federal (art. 70, parágrafo único), no Decreto nº 5.992/2006 e na Instrução Normativa SLTI/MP nº 3/2015, que determina sua realização no SCDP em até cinco dias após o retorno da viagem. 
 
-A prestação de contas é realizada no Sistema de Concessão de Diárias e Passagens (SCDP), mediante o registro das informações da viagem e o envio dos documentos que comprovam os deslocamentos e as atividades realizadas. Além de atender às exigências legais, esse procedimento contribui para a transparência na aplicação dos recursos públicos, possibilita o acompanhamento pelos órgãos de controle e oferece maior segurança ao próprio viajante.
-
-A obrigatoriedade da prestação de contas está prevista na Constituição Federal (art. 70, parágrafo único), no Decreto nº 5.992, de 2006 e na Instrução Normativa SLTI/MP nº 3, de 2015, que estabelece a realização da prestação de contas no SCDP no prazo de até cinco dias após o retorno da viagem.
-
-As referências normativas citadas estão disponíveis ao final desta cartilha.
+As referências normativas citadas estão disponíveis ao final desta cartilha. 
 
 ---
 
