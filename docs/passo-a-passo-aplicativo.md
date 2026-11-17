@@ -30,7 +30,28 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 </div>
 
+# 5. Passo a passo pelo aplicativo
 
+**Assuntos relacionados:** Documentos e bilhetes | Minha prestação voltou
+
+*Figura 2*
+
+!!!warning "Nota"
+
+   Guarde o protocolo gerado, pois ele comprova o envio dos documentos.
+
+1. **Entre no aplicativo:** baixe o aplicativo SCDP na Google Play ou na App Store e acesse com sua conta Gov.br (nível Prata ou Ouro).
+
+2. **Encontre a viagem:** em **Minhas Atividades** aparecem as viagens que exigem alguma ação. Todas as viagens também estão disponíveis em **Minhas Viagens a Serviço**. Utilize os filtros **"Prestação pendente"** ou **"Prestação a vencer"**. Em seguida, toque no cartão da viagem.
+
+3. **Clique em "Preencher":** ao final de cada etapa, toque em **"Prosseguir"** para avançar. O botão ficará disponível enquanto a prestação de contas estiver em um dos seguintes status:
+
+   - Não iniciada;
+   - Em elaboração;
+   - Devolvida;
+   - Aguardando devolução de valores.
+
+4. **Confirme a viagem:** a viagem ocorreu? A opção **"Sim"** já vem selecionada. Caso altere para
 
 
 ---
