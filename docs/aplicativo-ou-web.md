@@ -50,7 +50,7 @@ Se essa mensagem aparecer, a prestação de contas está sendo conduzida pelo So
 
 Procure o Solicitante de Viagem responsável pelo afastamento para confirmar se a prestação de contas será realizada pelo aplicativo ou pelo SCDP Web.
 
-<table style="width:100%; border-collapse:collapse; table-layout:fixed;">
+<table style="width:100%; border-collapse:collapse;">
     <tr>
         <th style="padding:8px; border:1px solid #ddd;">Aspecto</th>
         <th style="padding:8px; border:1px solid #ddd;">Aplicativo SCDP</th>
