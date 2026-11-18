@@ -68,9 +68,8 @@ Você pode acessar as seções específicas utilizando o menu lateral ou navegar
 * [13. Listas de verificação por perfil](checklists.md)
 * [14. Perguntas e respostas](perguntas-respostas.md)
 * [15. Glossário](glossario.md)
-* [16. Perguntas e Respostas](perguntas-respostas.md)
-* [17. Referências](referencias.md)
-* [18. Guia Completo](cartilha-completa.md)
+* [16. Referências](referencias.md)
+* [17. Guia Completo](cartilha-completa.md)
 
 ---
 
