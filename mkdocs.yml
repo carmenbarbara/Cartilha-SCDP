@@ -7,7 +7,7 @@ nav:
   - Início: index.md
 
   - Prestação de Contas:
-      - "1. O que é a prestação de contas?": prestacao-de-contas.md
+      - "1. O que é a prestação de contas?": o-que-e-prestacao-de-contas.md
       - "2. Quem faz o que no processo?": papeis-e-responsabilidades.md
       - "3. Prazo e consequências": prazo-e-consequencias.md
       - "4. Aplicativo no celular ou computador": aplicativo-ou-web.md
