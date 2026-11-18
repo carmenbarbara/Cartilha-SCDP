@@ -29,43 +29,54 @@ body,
     color: #212529 !important;
 }
 
-
 /* =========================================================
    TABELAS
    ========================================================= */
 
-/* Remove a barra de rolagem horizontal */
-.wy-table-responsive,
-.rst-content .wy-table-responsive {
-    overflow: visible !important;
+/* Remove a área de scroll criada pelo tema Read the Docs */
+.wy-table-responsive {
+    overflow: unset !important;
+    overflow-x: unset !important;
+    overflow-y: unset !important;
+    margin-bottom: 24px !important;
 }
 
-/* Faz as tabelas ocuparem toda a largura disponível */
+/* Remove scrollbar visual */
+.wy-table-responsive::-webkit-scrollbar {
+    display: none !important;
+}
+
+/* Tabela ocupa toda a largura */
 .wy-table-responsive table,
-.rst-content table {
+.rst-content table,
+table.docutils {
     width: 100% !important;
-    table-layout: fixed;
+    max-width: 100% !important;
+    table-layout: fixed !important;
 }
 
-/* Quebra automática de linhas em células */
+/* Quebra de texto nas células */
 .wy-table-responsive table th,
 .wy-table-responsive table td,
 .rst-content table th,
 .rst-content table td {
     white-space: normal !important;
-    word-wrap: break-word !important;
     overflow-wrap: break-word !important;
+    word-wrap: break-word !important;
     word-break: break-word !important;
 }
 
-/* Cabeçalho da tabela */
-table thead th {
-    background-color: #005a9c;
+/* Cabeçalho */
+table thead th,
+table.docutils thead th {
+    background-color: #005a9c !important;
     color: #ffffff !important;
-    font-weight: 700;
+    font-weight: 700 !important;
 }
 
 /* Primeira coluna em negrito */
-table tbody td:first-child {
+table tbody td:first-child,
+table.docutils tbody td:first-child {
     font-weight: 700;
 }
+
