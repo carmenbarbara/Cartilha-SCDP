@@ -33,37 +33,19 @@ body,
    TABELAS
    ========================================================= */
 
-/* Remove a área de scroll criada pelo tema Read the Docs */
+/* Remove o comportamento de scroll horizontal */
 .wy-table-responsive {
-    overflow: unset !important;
-    overflow-x: unset !important;
-    overflow-y: unset !important;
-    margin-bottom: 24px !important;
+    overflow: visible !important;
+    max-width: 100% !important;
 }
 
-/* Remove scrollbar visual */
-.wy-table-responsive::-webkit-scrollbar {
-    display: none !important;
-}
-
-/* Tabela ocupa toda a largura */
+/* Ocupa toda a largura disponível */
 .wy-table-responsive table,
 .rst-content table,
 table.docutils {
     width: 100% !important;
     max-width: 100% !important;
-    table-layout: fixed !important;
-}
-
-/* Quebra de texto nas células */
-.wy-table-responsive table th,
-.wy-table-responsive table td,
-.rst-content table th,
-.rst-content table td {
-    white-space: normal !important;
-    overflow-wrap: break-word !important;
-    word-wrap: break-word !important;
-    word-break: break-word !important;
+    table-layout: auto !important;
 }
 
 /* Cabeçalho */
@@ -80,3 +62,12 @@ table.docutils tbody td:first-child {
     font-weight: 700;
 }
 
+/* Quebra automática do texto */
+table th,
+table td,
+table.docutils th,
+table.docutils td {
+    white-space: normal !important;
+    word-break: normal !important;
+    overflow-wrap: break-word !important;
+}
