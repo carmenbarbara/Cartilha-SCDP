@@ -77,3 +77,11 @@ table.docutils td {
     margin: 0 !important;
     padding: 1.618em 2em !important;
 }
+
+/* Mantém o conteúdo centralizado como no manual SGA */
+.wy-nav-content {
+    max-width: 800px !important;
+    margin: 0 auto !important;
+}
+
+
