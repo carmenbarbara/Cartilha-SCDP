@@ -35,3 +35,11 @@ body, .md-content, .wy-nav-content {
     word-wrap: break-word !important;
     overflow-wrap: break-word !important;
 }
+
+/* Cabeçalho das tabelas */
+table thead th {
+    background-color: #1f4e79;
+    color: #ffffff;
+    font-weight: 700;
+}
+
