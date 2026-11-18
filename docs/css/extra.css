@@ -47,3 +47,21 @@ table thead th {
 table tbody td:first-child {
     font-weight: 700;
 }
+
+ /* Força tabelas sem rolagem horizontal */
+.rst-content .wy-table-responsive {
+    overflow: visible !important;
+}
+
+.rst-content table {
+    width: 100% !important;
+    table-layout: fixed;
+}
+
+.rst-content table th,
+.rst-content table td {
+    white-space: normal !important;
+    word-break: break-word !important;
+    overflow-wrap: break-word !important;
+}
+ 
