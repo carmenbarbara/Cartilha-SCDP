@@ -43,3 +43,7 @@ table thead th {
     font-weight: 700;
 }
 
+/* Primeira coluna em negrito */
+table tbody td:first-child {
+    font-weight: 700;
+}
