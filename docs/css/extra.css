@@ -71,3 +71,9 @@ table.docutils td {
     word-break: normal !important;
     overflow-wrap: break-word !important;
 }
+
+/* Ajusta a posição do conteúdo */
+.wy-nav-content {
+    margin: 0 !important;
+    padding: 1.618em 2em !important;
+}
