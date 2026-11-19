@@ -223,18 +223,16 @@ Depois do envio, a situação muda para **“Encaminhada”**. O Solicitante ana
 
 # 6. Passo a passo pelo computador (SCDP Web)
 
-**Assuntos relacionados:** Documentos e bilhetes | Devolução de valores
+1. **Proposto:** reúne os comprovantes, assina o relatório e entregua tudo ao Solicitante de Viagem.
+2. **Solicitante:** acessa o SCDP Web , verifica a prestação de contas, selecione a viagem, confirma, anexa e encaminhe para aprovação.
 
-1. **Proposto:** reúna os comprovantes, assine o relatório e entregue tudo ao Solicitante de Viagem.
-2. **Solicitante:** SCDP Web › Prestação de Contas › selecione a viagem › confirme, anexe e encaminhe para aprovação.
-
-## O que o Proposto faz
+## O que o Proposto faz?
 
 1. Junta cartões de embarque, bilhetes ou recibos de check-in, certificados ou listas de presença e assina o Relatório de Viagem.
 2. Entrega tudo ao Solicitante de Viagem, nos primeiros dias após o retorno.
 3. Acompanha o andamento e responde rapidamente se o Solicitante pedir correção.
 
-## O que o Solicitante faz no SCDP Web
+## O que o Solicitante faz no SCDP Web?
 
 1. **Abra a prestação de contas:** Acesse o SCDP pelo gov.br, vá em Prestação de Contas e selecione a viagem (PCDP) na lista.
 2. **Confirme a viagem:** Responda se a viagem foi ou não realizada e, se necessário, ajuste os trechos e os bilhetes para mostrar como a viagem aconteceu. O sistema recalcula os valores automaticamente e indica o valor a devolver, quando houver.
