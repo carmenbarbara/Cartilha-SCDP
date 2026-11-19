@@ -30,7 +30,47 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 </div>
 
+# 10. Como acompanhar: status e avisos
 
+No aplicativo, o status aparece na parte de baixo do quadro com os dados da viagem. Veja abaixo o que cada situação significa e o que fazer.
+
+## Status da prestação de contas
+
+| STATUS | O QUE SIGNIFICA | O QUE FAZER |
+|---------|---------|---------|
+| Não iniciada | Você ainda não começou o preenchimento. | Toque em Preencher. |
+| Em elaboração | Você iniciou, ou a prestação foi devolvida para complementar ou ajustar. | Conclua e Encaminhe. |
+| Encaminhada | Enviada após o 1º preenchimento, a complementação ou o comprovante de GRU. | Aguarde. Guarde o protocolo. |
+| Em análise | O Solicitante iniciou a análise no SCDP Web. | Aguarde a decisão. |
+| Devolvida | O Solicitante devolveu com pendência de preenchimento. | Abra Pendências e Resolva. |
+| Aguardando devolução de valores | Há guia(s) disponibilizada(s) para você pagar. | Pague, anexe o comprovante e envie. |
+| Aguardando complementação de valores | Após a análise, há valor adicional a ser pago a você. | Acompanhe o pagamento. |
+| Concluída | Prestação analisada e aprovada pela autoridade. Viagem encerrada. | Guarde o resumo e o protocolo. |
+
+## Status da viagem que exigem atenção
+
+| STATUS DA VIAGEM | O QUE SIGNIFICA |
+|---------|---------|
+| Em prestação de contas | A viagem terminou e você está dentro dos 5 dias para prestar contas. |
+| Prestação de contas pendente | Passaram-se mais de 5 dias do retorno. Regularize já. |
+| Devolução de valores | Há valores a devolver antes do encerramento. |
+| Viagem encerrada | Viagem e prestação de contas finalizadas (aprovadas ou não aprovadas). |
+| Viagem não realizada | Viagem cancelada ou não realizada: não há prestação de contas a registrar. |
+
+## Notificações do aplicativo
+
+O aplicativo envia seis avisos:
+
+1. prepare-se para a viagem (véspera);
+2. prestação de contas (dia seguinte ao fim da viagem);
+3. aprovação de complementação de valores;
+4. pendência de devolução de valores;
+5. pendência na prestação de contas; e
+6. conclusão da prestação de contas.
+
+Para receber no celular, ative as notificações nas configurações do aparelho e no aplicativo.
+
+---
 
 ---
 
