@@ -34,49 +34,23 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 Assuntos relacionados: Prazo e consequências | Quando procurar a Central 
 
-**A viagem não aconteceu** 
-
-Avise imediatamente o Solicitante de Viagem. No aplicativo, em Preencher, responda à pergunta “A viagem ocorreu? Não”, informe o motivo e anexe o comprovante, se houver. 
-
-Diárias e passagens recebidas devem ser devolvidas por GRU no prazo de 5 dias. 
-
-**Voltei antes ou depois do previsto** 
-
-Informe o Solicitante de Viagem. A prestação deve refletir as datas e os trechos que você realmente fez e o sistema pode gerar valor a devolver ou a complementar. 
-
-**Mudou trecho, voo ou horário** 
-
-Guarde os comprovantes dos trechos realizados. No aplicativo, justifique em “O roteiro ocorreu como cadastrado?” e no bilhete alterado. No SCDP Web, o Solicitante de Viagem ajusta conforme o procedimento do órgão. 
-
-**Não recebi diárias, só passagens** 
-
-Entre em contato com o Coordenador Financeiro da Instituição responsável pelo afastamento. A prestação de contas continua necessária: o afastamento é registrado no SCDP mesmo sem pagamento de diárias. 
-
-**A viagem foi cancelada pelo órgão** 
-
-Se houve pagamento das diárias, o aplicativo mostra “Viagem não realizada” e não há prestação de contas a registrar. Se houve valor recebido, ele deve ser devolvido por GRU. 
+| SITUAÇÃO | O QUE FAZER |
+|-----------|-----------|
+| A viagem não aconteceu | Avise imediatamente o Solicitante de Viagem. No aplicativo, em Preencher, responda à pergunta “A viagem ocorreu? Não”, informe o motivo e anexe o comprovante, se houver. Diárias e passagens recebidas devem ser devolvidas por GRU no prazo de 5 dias. |
+| Voltei antes ou depois do previsto | Informe o Solicitante de Viagem. A prestação deve refletir as datas e os trechos que você realmente fez e o sistema pode gerar valor a devolver ou a complementar. |
+| Mudou trecho, voo ou horário | Guarde os comprovantes dos trechos realizados. No aplicativo, justifique em “O roteiro ocorreu como cadastrado?” e no bilhete alterado. No SCDP Web, o Solicitante de Viagem ajusta conforme o procedimento do órgão. |
+| Não recebi diárias, só passagens | Entre em contato com o Coordenador Financeiro da Instituição responsável pelo afastamento. A prestação de contas continua necessária: o afastamento é registrado no SCDP mesmo sem pagamento de diárias. |
+| A viagem foi cancelada pelo órgão | Se houve pagamento das diárias, o aplicativo mostra “Viagem não realizada” e não há prestação de contas a registrar. Se houve valor recebido, ele deve ser devolvido por GRU. |
 
 ### Devolução de valores: guia, pagamento e comprovação   
 
-**1. Identificação do valor (a devolver)**  
-
-O SCDP indica os valores de diárias, restituição, indenização e outras despesas a devolver. No aplicativo, aparece a pendência “com valores a devolver”. 
-
-**2. Emissão da guia** 
-
-No SCDP Web, o Solicitante acessa “Prestação de Contas › Devolução de Valores”. Depois, preenche os dados exigidos no Portal do Tesouro Nacional, emite a GRU e a envia ao viajante para pagamento. 
-
-**3. Pagamento** 
-
-O Proposto paga a GRU e anexa o comprovante pelo aplicativo ou envia ao Solicitante de Viagem. 
-
-**4. Anexação** 
-
-No aplicativo: Pendências › Resolver, anexe o “Comprovante de pagamento de guia” e toque em Enviar (protocolo DEV). No SCDP Web: o Solicitante anexa a GRU e o comprovante com o tipo de documento correspondente. 
-
-**5. Conclusão** 
-
-Pagar a guia não basta para concluir a prestação de contas. Acompanhe o processo até a aprovação. 
+| ETAPA | ORIENTAÇÃO |
+|---------|---------|
+| Identificação do valor (a devolver) | O SCDP indica os valores de diárias, restituição, indenização e outras despesas a devolver. No aplicativo, aparece a pendência “com valores a devolver”. |
+| Emissão da guia | No SCDP Web, o Solicitante acessa “Prestação de Contas › Devolução de Valores”. Depois, preenche os dados exigidos no Portal do Tesouro Nacional, emite a GRU e a envia ao viajante para pagamento. |
+| Pagamento | O Proposto paga a GRU e anexa o comprovante pelo aplicativo ou envia ao Solicitante de Viagem. |
+| Anexação | No aplicativo: Pendências › Resolver, anexe o “Comprovante de pagamento de guia” e toque em Enviar (protocolo DEV). No SCDP Web: o Solicitante anexa a GRU e o comprovante com o tipo de documento correspondente. |
+| Conclusão | Pagar a guia não basta para concluir a prestação de contas. Acompanhe o processo até a aprovação. |
 
 !!! warning "Atenção" 
 
