@@ -85,7 +85,6 @@ Você pode acessar as seções específicas utilizando o menu lateral ou navegar
 
 ---
 
-
 # 1. O que é a prestação de contas?
 
 A prestação de contas é realizada no SCDP, mediante o registro das informações da viagem e o envio dos documentos que comprovam os deslocamentos e as atividades realizadas. Esse procedimento além de atender às exigências legais, contribui para a transparência na aplicação dos recursos públicos, possibilita o acompanhamento pelos órgãos de controle e oferece maior segurança ao próprio viajante.
@@ -95,6 +94,29 @@ A obrigatoriedade da prestação de contas está prevista na Constituição Fede
 ![Figura 1](images/Figura-1.png)
 
 As referências normativas citadas estão disponíveis ao final desta cartilha.
+
+---
+
+# 2. Quem faz o que no processo?
+
+A prestação de contas envolve diferentes perfis no Sistema de Concessão de Diárias e Passagens (SCDP), cada um com responsabilidades específicas relacionadas ao registro, à análise e à aprovação das informações da viagem.
+
+| PAPEL | O QUE FAZ NA PRESTAÇÃO DE CONTAS |
+|---------|---------|
+| Proposto (quem viaja) | Anexa os comprovantes da viagem no aplicativo. Se não puder enviá-los por esse canal, encaminha ao Solicitante de Viagem, que registrará a prestação de contas no SCDP Web. Se houver valores a devolver, o pagamento deverá ser efetuado por meio de Guia de Recolhimento da União (GRU). |
+| Solicitante de Viagem | Cadastra a viagem no SCDP Web, registra a prestação de contas (analisa os documentos que o Proposto enviou pelo aplicativo). Confere dados e anexos e encaminha para aprovação. Emite a GRU quando há valor a devolver. |
+| Ação Administrativa Proponente ou autoridade competente | Aprova a prestação de contas, o que encerra a viagem, ou devolve e explica o que precisa ser corrigido. |
+| Gestor Setorial do SCDP | Gerencia usuários e perfis do SCDP de acordo com a legislação e as normas internas do órgão. |
+| Central de Atendimento | Orienta sobre o uso do sistema, registra e encaminha ocorrências relacionadas ao funcionamento do aplicativo ou do SCDP Web. |
+
+!!! note "Nota"
+
+    A Central de Atendimento não aprova prestações de contas, não altera registros e não realiza cadastros em nome dos usuários.
+
+No aplicativo,  o Proposto recebe notificações, verifica cada item que precisa de correção e guarda o protocolo de envio. Isso ajuda o viajante e o Solicitante de Viagem a concluir o processo mais rapidamente.
+
+---
+
 
 ---
 
