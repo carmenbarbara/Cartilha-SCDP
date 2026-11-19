@@ -32,7 +32,9 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 # 12. Quando e como procurar a Central
 
-## Quem pode ajudar em cada situação
+**Assuntos relacionados:** Deu problema? | Erros mais comuns
+
+### Quem pode ajudar em cada situação
 
 | SUA DÚVIDA | PROCURE |
 |------------|----------|
@@ -41,7 +43,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 | Como usar uma funcionalidade do SCDP ou do aplicativo | Manuais e tutoriais do SCDP e, se persistir, Central de Atendimento |
 | Conta ou nível gov.br | Suporte do gov.br (a Central do SCDP não atende a conta gov.br) |
 
-## Canais da Central de Atendimento do MGI
+### Canais da Central de Atendimento do MGI
 
 **Telefone:** 0800 978 9001, opção 2 – SCDP.
 
@@ -56,11 +58,11 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 5. Data e horário aproximados e o que você já tentou fazer.
 6. Captura de tela sem dados pessoais ou bancários expostos.
 
-## Segurança
+### Segurança
 
 Nunca envie senha, código de autenticação ou dados bancários completos ao atendimento, por e-mail, chamado, telefone ou mensagem. A Central não pede essas informações.
 
-## O que a Central não faz
+### O que a Central não faz
 
 A Central não aprova nem registra prestação de contas em nome do usuário. Também não altera os dados da viagem. As decisões sobre exceções de prazo cabem ao órgão.
 
