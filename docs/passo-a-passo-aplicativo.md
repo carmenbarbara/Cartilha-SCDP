@@ -31,15 +31,15 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 # 5. Passo a passo pelo aplicativo
 
-### 1. Baixe o SCDP na Google Play ou na Aplicativo Store e entre com sua conta gov.br (Prata ou Ouro).
+#### 1. Baixe o SCDP na Google Play ou na Aplicativo Store e entre com sua conta gov.br (Prata ou Ouro).
 
-### 2. Em "Minhas Atividades” aparecem as viagens que exigem ação.
+#### 2. Em "Minhas Atividades” aparecem as viagens que exigem ação.
 
 Todas as viagens estão em “Minhas Viagens a Serviço” (use o filtro “Prestação pendente” ou “Prestação a vencer”). Toque no quadro com os dados da viagem.
 
-### 3. Clique em “Preencher”.
+#### 3. Clique em “Preencher”.
 
-### 4. Ao final de cada etapa, clique em “Prosseguir” para avançar.
+#### 4. Ao final de cada etapa, clique em “Prosseguir” para avançar.
 
 O botão fica disponível enquanto a prestação de contas estiver em um dos seguintes status:
 
@@ -48,7 +48,7 @@ O botão fica disponível enquanto a prestação de contas estiver em um dos seg
 - Devolvida
 - Aguardando devolução de valores
 
-### 5. A viagem ocorreu?
+#### 5. A viagem ocorreu?
 
 - A opção **“Sim”** já vem marcada.
 - Se mudar para **“Não”**, informe o motivo e anexe o comprovante (por exemplo, atestado médico).
@@ -57,7 +57,7 @@ O botão fica disponível enquanto a prestação de contas estiver em um dos seg
 
 Se houve mudança de voo, data ou roteiro, explique no campo de justificativa.
 
-### 6. Comprovando cada trecho da viagem
+#### 6. Comprovando cada trecho da viagem
 
 - **Comprovação automática:** Na modalidade Compra Direta, o SCDP confirmou com a companhia aérea o uso do bilhete. Você não precisa anexar o comprovante.
 
@@ -65,11 +65,11 @@ Se houve mudança de voo, data ou roteiro, explique no campo de justificativa.
 
 - **Inconsistência detectada:** a companhia informou o uso de um bilhete que estava inutilizado. Justifique.
 
-### 7. Inclua despesas adicionais, se houver
+#### 7. Inclua despesas adicionais, se houver
 
 Gastos realizados com autorização (por exemplo, bilhete de transporte não atendido pela agência contratada): informe valor, descreva a despesa e anexe o documento **“Comprovante de Gastos Autorizados”**.
 
-### 8. Anexe o relatório e outros documentos
+#### 8. Anexe o relatório e outros documentos
 
 No aplicativo, o Relatório de Viagem é exigido nas viagens internacionais. Nas nacionais, confirme a exigência com seu órgão.
 
@@ -77,7 +77,7 @@ O link **“Exemplo de Relatório”** oferece um modelo. Antes de usá-lo, conf
 
 Em **“Outros documentos”**: lista de presença, certificado, fotos do evento etc.
 
-### 9. Confira o Resumo e clique em “Encaminhar”
+#### 9. Confira o Resumo e clique em “Encaminhar”
 
 **Antes de enviar, confira os arquivos**
 
@@ -104,7 +104,7 @@ Antes de entrar em contato com a Central de Atendimento, tenha em mãos:
 
     Guarde o protocolo gerado, pois ele comprova o envio dos documentos.
 
-### Resultado esperado
+#### Resultado esperado
 
 Depois do envio, a situação muda para **“Encaminhada”**. O Solicitante analisa a prestação de contas e a autoridade decide sobre a aprovação. Após a aprovação, o processo é encerrado e você recebe uma notificação.
 
