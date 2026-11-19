@@ -31,7 +31,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 </div>
 
 # 11. Deu problema? Soluções rápidas
-
+**Assuntos relacionados: Quando procurar a Central | Status** 
 | O QUE ACONTECE | CAUSA PROVÁVEL | O QUE FAZER |
 |----------|----------|----------|
 | Não vejo minha viagem no aplicativo | A viagem ainda não passou pela aprovação administrativa, ou é de ano anterior à versão atual do SCDP (2014). | Confirme com o Solicitante de Viagem o andamento. Para viagens antigas, peça a relação de pendências ao Solicitante de Viagem ou ao Gestor Setorial. |
