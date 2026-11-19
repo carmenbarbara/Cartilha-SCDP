@@ -52,7 +52,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
     As regras internas do seu órgão podem exigir outros documentos. Confirme a lista com o Solicitante de Viagem antes de entregar. Como boa prática administrativa também recomenda-se incluir convites, programações, certificados ou folders.
 
-## Problemas com o comprovante
+### Problemas com o comprovante
 
 | SITUAÇÃO | O QUE FAZER |
 |-----------|-----------|
