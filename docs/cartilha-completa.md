@@ -173,7 +173,6 @@ Procure o Solicitante de Viagem responsável para confirmar se a prestação de 
 ---
 
 # 5. Passo a passo pelo aplicativo
-# 5. Passo a passo pelo aplicativo
 
 ### 1. Baixe o SCDP na Google Play ou na Aplicativo Store e entre com sua conta gov.br (Prata ou Ouro).
 
@@ -265,6 +264,7 @@ Depois do envio, a situação muda para **“Encaminhada”**. O Solicitante ana
 Depois do envio, a situação muda para **“Encaminhada”**. O Solicitante analisa a prestação de contas e a autoridade decide sobre a aprovação. Após a aprovação, o processo é encerrcebe uma notificação.
 
 ---
+
 # 6. Passo a passo pelo computador (SCDP Web)
 
 **Assuntos relacionados:** Documentos e bilhetes | Devolução de valores
