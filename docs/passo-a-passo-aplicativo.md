@@ -73,9 +73,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 9. **Confira o Resumo e clique em “Encaminhar”.**
 
-<p align="center">
-  <img src="images/Figura-2.png" alt="Figura 2" width="700">
-</p>
+![Figura 2](images/Figura-2.png)
 
 !!! warning "Atenção"
 
