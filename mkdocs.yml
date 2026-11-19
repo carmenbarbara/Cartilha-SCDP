@@ -21,9 +21,8 @@ nav:
       - "12. Quando e como procurar a Central de Atendimento": central-de-atendimento.md
       - "13. Listas de verificação por perfil": checklists.md
       - "14. Perguntas e respostas": perguntas-respostas.md
-      - "15. Glossário": glossario.md
-      - "16. Referências": referencias.md
-      - "17. Cartilha completa": cartilha-completa.md
+      - "15. Referências": referencias.md
+      - "16. Cartilha completa": cartilha-completa.md
 
 extra_css:
   - custom.css
