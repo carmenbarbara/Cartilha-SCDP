@@ -31,6 +31,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 </div>
 
 # 8. Minha prestação de contas voltou. E agora?
+**Assuntos relacionados: Como a prestação é feita | Quando procurar a Central**
 
 Não reinicie o processo. Abra a pendência, leia o que precisa corrigir, faça apenas os ajustes pedidos e envie novamente.
 
