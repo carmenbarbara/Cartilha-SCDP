@@ -443,6 +443,47 @@ A Central não aprova nem registra prestação de contas em nome do usuário. Ta
 
 ---
 
+# 13. Listas de verificação por perfil  
+
+### Proposto (viajante)  
+
+☐ guardar bilhetes e cartões de embarque de ida e volta;  
+
+☐ conferir se minha viagem aparece no aplicativo e qual é o status;  
+
+☐ preencher a prestação no aplicativo (ou entreguei os documentos ao Solicitante) em até 5 dias do retorno;  
+
+☐ anexar o relatório (quando exigido) e os comprovantes legíveis;  
+
+☐ guardar o protocolo de envio;  
+
+☐ acompanhar as notificações e resolvi as pendências, inclusive o pagamento da GRU, se houve.  
+
+### Solicitante de Viagem  
+
+☐ conferir se a prestação foi iniciada pelo Proposto (aplicativo) ou se devo registrá-la no SCDP Web;  
+
+☐ verificar se os documentos estão legíveis e assinados e se as informações do relatório, dos comprovantes e dos trechos são compatíveis;  
+
+☐ ajustar trechos e bilhetes à situação real e anexei os documentos (com “Visível no aplicativo” quando couber);  
+
+☐ devolver com apontamento claro quando faltou algo;  
+
+☐ emitir a GRU e informei o Proposto quando havia valor a devolver;  
+
+☐ encaminhar ao aprovador dentro do prazo.  
+
+### Aprovador  
+
+☐ verificar a coerência entre relatório, comprovantes e dados da PCDP;  
+
+☐ registrar com clareza o que precisava ser corrigido quando devolvi a prestação;  
+
+☐ decidir a aprovação sem deixar a prestação de contas parada.  
+
+---
+
+
 <div style="display: flex; justify-content: flex-end; margin: 20px 0;">
 
 <button onclick="window.print()"
