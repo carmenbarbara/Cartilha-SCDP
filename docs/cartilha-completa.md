@@ -236,6 +236,37 @@ Antes de entrar em contato com a Central de Atendimento, tenha em mãos:
 Depois do envio, a situação muda para **“Encaminhada”**. O Solicitante analisa a prestação de contas e a autoridade decide sobre a aprovação. Após a aprovação, o processo é encerrado e você recebe uma notificação.
 
 ---
+
+# 6. Passo a passo pelo computador (SCDP Web)
+
+**Assuntos relacionados:** Documentos e bilhetes | Devolução de valores
+
+1. **Proposto:** reúna os comprovantes, assine o relatório e entregue tudo ao Solicitante de Viagem.
+2. **Solicitante:** SCDP Web › Prestação de Contas › selecione a viagem › confirme, anexe e encaminhe para aprovação.
+
+## O que o Proposto faz
+
+1. Junta cartões de embarque, bilhetes ou recibos de check-in, certificados ou listas de presença e assina o Relatório de Viagem.
+2. Entrega tudo ao Solicitante de Viagem, nos primeiros dias após o retorno.
+3. Acompanha o andamento e responde rapidamente se o Solicitante pedir correção.
+
+## O que o Solicitante faz no SCDP Web
+
+1. **Abra a prestação de contas:** Acesse o SCDP pelo gov.br, vá em Prestação de Contas e selecione a viagem (PCDP) na lista.
+2. **Confirme a viagem:** Responda se a viagem foi ou não realizada e, se necessário, ajuste os trechos e os bilhetes para mostrar como a viagem aconteceu. O sistema recalcula os valores automaticamente e indica o valor a devolver, quando houver.
+3. **Confira a comprovação dos bilhetes:** Se o SCDP comprovar automaticamente o uso do bilhete, você não precisa anexar o comprovante. Na Compra Direta, se o sistema não confirmar o uso com a Companhia Aérea, anexe os comprovantes de embarque entregues pelo Viajante. No agenciamento, é obrigatório anexar os comprovantes dos bilhetes.
+4. **Anexe os documentos:** Anexe o Relatório de Viagem (tipo de documento “Relatório de Viagem”) e os demais comprovantes. Se houver devolução, anexe também a GRU e o comprovante de pagamento. Para que o Viajante veja o arquivo no aplicativo, marque “Visível no aplicativo”.
+5. **Encaminhe:** Encaminhe a prestação ao aprovador. Se houver valor a devolver, siga para Prestação de Contas › Devolução de Valores. Se estiver fora do prazo, registre a justificativa.
+6. **Acompanhe até a conclusão:** Confira a decisão do aprovador. Se for devolvida, ajuste e envie novamente. A prestação só está concluída quando aprovada.
+
+## Se a prestação foi iniciada pelo aplicativo
+
+O Solicitante analisa o que o Proposto enviou: confirma o início da análise no SCDP Web e, se houver divergência, devolve com o texto da correção. Isso aparece como pendência no aplicativo do Proposto.
+
+## Alterei a viagem depois de iniciar?
+
+Se precisar alterar a PCDP depois de iniciar a prestação de contas, o Solicitante de Viagem deve: desfazer a prestação em andamento, alterar a PCDP e iniciar novamente a prestação de contas. Depois, deve encaminhá-la.
+
 ---
 
 # 9. Exceções e devolução de valores:  
