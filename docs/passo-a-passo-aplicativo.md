@@ -47,7 +47,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 5. **A viagem ocorreu?**
 
-   A opção **“Sim”** já vem marcada. Se mudar para **“Não”**, informe o motivo e anexe o comprovante (por exemplo, atestado médico).
+   Caso tenha ocorrido, a opção **“Sim”** já vem marcada. Se for preciso mudar para **“Não”**, informe o motivo e anexe o comprovante do que impediu a viagem (por exemplo, atestado médico).
 
    **O roteiro ocorreu como cadastrado?**
 
