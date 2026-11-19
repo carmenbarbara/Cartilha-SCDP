@@ -108,17 +108,6 @@ Antes de entrar em contato com a Central de Atendimento, tenha em mãos:
 
 Depois do envio, a situação muda para **“Encaminhada”**. O Solicitante analisa a prestação de contas e a autoridade decide sobre a aprovação. Após a aprovação, o processo é encerrado e você recebe uma notificação.
 
-
-![Figura-2](images/Figura-2.png)
-
-
-!!! warning "Atenção"
-
-    Guarde o protocolo gerado, pois ele comprova o envio dos documentos.
-
-## Resultado esperado
-Depois do envio, a situação muda para **“Encaminhada”**. O Solicitante analisa a prestação de contas e a autoridade decide sobre a aprovação. Após a aprovação, o processo é encerrcebe uma notificação.
-
 ---
 
 <div style="display: flex; justify-content: flex-end; margin: 20px 0;">
