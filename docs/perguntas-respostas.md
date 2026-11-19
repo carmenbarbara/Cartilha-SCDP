@@ -29,33 +29,33 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 </div>
 
-# 14. Perguntas e respostas
+# 14. Perguntas e respostas:  
 
-**1. Quanto tempo tenho para prestar contas?**
+**1. Quanto tempo tenho para prestar contas?**  
 Até 5 dias, contados do retorno da viagem.
 
-**2. Posso prestar contas pelo celular?**
+**2. Posso prestar contas pelo celular?**  
 Sim, pelo aplicativo SCDP, com conta gov.br Prata ou Ouro, se a prestação não foi iniciada pelo órgão no SCDP Web.
 
-**3. Quem registra a prestação no SCDP Web?**
+**3. Quem registra a prestação no SCDP Web?**  
 O Solicitante de Viagem, com os documentos entregues pelo viajante.
 
-**4. Preciso prestar contas se não recebi diárias?**
+**4. Preciso prestar contas se não recebi diárias?**  
 Sim. O afastamento é registrado e comprovado no SCDP mesmo sem pagamento de diárias.
 
-**5. Perdi o cartão de embarque. E agora?**
+**5. Perdi o cartão de embarque. E agora?**  
 Use o recibo de check-in ou peça à empresa de transporte uma declaração que comprove a viagem.
 
-**6. Minha prestação voltou. Começo de novo?**
+**6. Minha prestação voltou. Começo de novo?**  
 Não. Abra a pendência, corrija o que foi apontado e envie novamente.
 
-**7. Como sei que a documentação foi recebida?**
+**7. Como sei que a documentação foi recebida?**  
 O aplicativo gera um protocolo com data e hora, guardado em Resumo.
 
-**8. A viagem foi cancelada. Preciso fazer algo?**
+**8. A viagem foi cancelada. Preciso fazer algo?**  
 Sim. Avise o Solicitante de Viagem e providencie a devolução dos valores por GRU, se houver.
 
-**9. A Central de Atendimento aprova minha prestação de contas?**
+**9. A Central de Atendimento aprova minha prestação de contas?**  
 Não. A aprovação cabe ao aprovador definido no fluxo do seu órgão.
 
 ---
