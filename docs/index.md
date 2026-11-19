@@ -45,8 +45,6 @@ PÚBLICO-ALVO:
 </div>
 
 ### Como Usar Esta Cartilha: 
-O Sistema de Concessão de Diárias e Passagens (SCDP) é a ferramenta do Governo Federal utilizada para solicitar, aprovar, registrar e prestar contas de viagens a serviço, tanto nacionais quanto internacionais. 
-
 Esta cartilha orienta como prestar contas de uma viagem a serviço, tanto pelo aplicativo quanto pelo computador. Também apresenta as instruções para que o **Solicitante de Viagem** possa analisar e concluir o processo. Aqui, são apresentadas as **regras gerais** do SCDP. O seu órgão pode adotar normas internas complementares. 
 
 Se houver alguma diferença entre as orientações desta cartilha e as normas do seu órgão, siga as orientações do **Solicitante de Viagem** ou do **Gestor Setorial do SCDP**. 
@@ -54,6 +52,16 @@ Se houver alguma diferença entre as orientações desta cartilha e as normas do
 Mesmo quando não há pagamento de diárias, a viagem deve ser registrada no sistema e a prestação de contas continua sendo obrigatória.
 
 Para encontrar a orientação desejada, localize sua situação na lista abaixo e consulte a seção indicada. 
+
+### O QUE É O SCDP        
+O Sistema de Concessão de Diárias e Passagens (SCDP) é a ferramenta do Governo Federal utilizada para solicitar, aprovar, registrar e prestar contas de viagens a serviço, tanto nacionais quanto internacionais. 
+
+Mesmo quando não há pagamento de diárias, a viagem deve ser registrada no sistema e a prestação de contas continua sendo obrigatória.  
+
+### REGRAS DO SEU ÓRGÃO  
+Esta cartilha apresenta as regras gerais do SCDP. No entanto, seu órgão pode adotar normas internas complementares. 
+
+Se houver alguma diferença entre as orientações desta cartilha e as normas do seu órgão, siga as orientações do Solicitante de Viagem ou do Gestor Setorial do SCDP. 
 
 ### SUMÁRIO DE NAVEGAÇÃO
 Você pode acessar as seções específicas utilizando o menu lateral ou navegar diretamente pelas páginas principais do manual.
