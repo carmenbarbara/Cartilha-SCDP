@@ -18,10 +18,7 @@
 
 Consulte os manuais e tutoriais disponibilizados no SCDP, que detalham cada perfil, tela e procedimento, incluindo o Tutorial do Aplicativo do SCDP e o Manual do Solicitante de Viagem.  
 
-Manuais do SCDP: gov.br/compras – Manuais do SCDP  
-
-Acesso ao sistema: scdp.gov.br  
-
-Central de Atendimento: gov.br/gestão – Central de Atendimento  
-
-Elaboração: COQUAT. Colaboração técnica e validação temática do SCDP: CODIP.  
+**Manuais do SCDP:** gov.br/compras – Manuais do SCDP  
+**Acesso ao sistema:** scdp.gov.br  
+**Central de Atendimento:** gov.br/gestão – Central de Atendimento  
+**Elaboração:** COQUAT. Colaboração técnica e validação temática do SCDP: CODIP.  
