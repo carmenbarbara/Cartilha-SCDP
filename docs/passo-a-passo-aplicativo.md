@@ -104,9 +104,21 @@ images/Figura-2.png
 
     Guarde o protocolo gerado, pois ele comprova o envio dos documentos.
 
-## Resultado esperado
+### Resultado esperado
 
 Depois do envio, a situação muda para **“Encaminhada”**. O Solicitante analisa a prestação de contas e a autoridade decide sobre a aprovação. Após a aprovação, o processo é encerrado e você recebe uma notificação.
+
+<div style="display: flex; justify-content: flex-end; margin: 20px 0;">
+
+<button onclick="window.print()"
+style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+
+🖨️ Imprimir ou baixar esta página
+
+</button>
+
+</div>
+
 
 
 
