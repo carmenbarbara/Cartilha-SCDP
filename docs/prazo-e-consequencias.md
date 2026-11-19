@@ -50,7 +50,6 @@ O SCDP envia uma notificação no dia seguinte ao término da viagem.
 Também é possível iniciar a prestação de contas antes da viagem, por exemplo, para informar que o afastamento não ocorreu.
 
 ## O que acontece se eu não prestar contas?
-
 | Situação | Consequência |
 |-----------|-----------|
 | **Prestação de contas pendente** | Novas viagens do mesmo Proposto poderão ser impedidas, conforme avaliação da autoridade competente. A autorização de uma nova viagem quando houver prestação de contas pendente constitui exceção e exige justificativa formal da autoridade responsável pela aprovação. |
