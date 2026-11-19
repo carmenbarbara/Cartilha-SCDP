@@ -73,23 +73,24 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
     Antes de enviar, confira os arquivos. Depois que a prestação é encaminhada, os arquivos não podem mais ser removidos. Confira se       anexou os documentos certos e se é possível ler todas as informações.
 
-Se aparecer a mensagem **"O envio não pode ser realizado neste momento."**, aguarde alguns instantes e tente novamente.
-    - Verifique se a viagem continua disponível para preenchimento.
-    - Tente realizar o envio novamente mais tarde.
-    - Se a mensagem continuar aparecendo, procure a Central de Atendimento e informe a mensagem exibida pelo sistema.
+Se aparecer a mensagem **"O envio não pode ser realizado neste momento."**, aguarde alguns instantes e tente novamente.  
+    - Verifique se a viagem continua disponível para preenchimento.  
+    - Tente realizar o envio novamente mais tarde.  
+    - Se a mensagem continuar aparecendo, procure a Central de Atendimento e informe a mensagem exibida pelo sistema.  
 
 Antes de entrar em contato com a Central de Atendimento, tenha em mãos:
-    - Número da PCDP;
-    - Data e horário aproximados da ocorrência;
-    - Mensagem apresentada pelo sistema;
-    - Captura de tela sem dados pessoais expostos.
+    - Número da PCDP  
+    - Data e horário aproximados da ocorrência  
+    - Mensagem apresentada pelo sistema  
+    - Captura de tela sem dados pessoais expostos  
 
 !!! warning "Atenção"
 
     Guarde o protocolo gerado, pois ele comprova o envio dos documentos.
 
 ## Resultado esperado
-Depois do envio, a situação muda para **“Encaminhada”**. O Solicitante analisa a prestação de contas e a autoridade decide sobre a aprovação. Após a aprovação, o processo é encerrado e você recebe uma notificação.
+Depois do envio, a situação muda para **“Encaminhada”**. 
+O Solicitante analisa a prestação de contas e a autoridade decide sobre a aprovação. Após a aprovação, o processo é encerrado e você recebe uma notificação.
 
 ---
 
