@@ -48,7 +48,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 - A opção **“Sim”** já vem marcada.
 - Se mudar para **“Não”**, informe o motivo e anexe o comprovante (por exemplo, atestado médico).
 
-**O roteiro ocorreu como cadastrado?**
+**O roteiro ocorreu como cadastrado?**  
 Se houve mudança de voo, data ou roteiro, explique no campo de justificativa.
 
 6. **Comprovando cada trecho da viagem:**
