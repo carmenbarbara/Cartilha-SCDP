@@ -20,7 +20,6 @@ style="padding: 6px 12px; font-weight: bold; cursor: pointer; border: 1px solid 
 A+
 </button>
 
-
 <button onclick="window.print()"
 style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
 
@@ -48,9 +47,9 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 - Antes de viajar: salve bilhetes e cartões de embarque no celular e fotografe os canhotos físicos.
 - Na volta: envie PDF ou imagem legível, com nomes claros (ex.: cartao_embarque_ida.pdf).
 
-!!!warning "Atenção"
+!!! warning "Atenção"
 
-   As regras internas do seu órgão podem exigir outros documentos. Confirme a lista com o   Solicitante de Viagem antes de entregar. Como boa prática administrativa também recomenda-se incluir convites, programações, certificados ou folders.
+    As regras internas do seu órgão podem exigir outros documentos. Confirme a lista com o Solicitante de Viagem antes de entregar. Como boa prática administrativa também recomenda-se incluir convites, programações, certificados ou folders.
 
 ## Problemas com o comprovante
 
