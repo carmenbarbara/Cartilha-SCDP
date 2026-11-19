@@ -30,13 +30,9 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 </div>
 
-9. EXCEÇÕES E DEVOLUÇÃO DE VALORES 
+# 9. EXCEÇÕES E DEVOLUÇÃO DE VALORES 
 
 Assuntos relacionados: Prazo e consequências | Quando procurar a Central 
-
-SITUAÇÃO 
-
-O QUE FAZER 
 
 **A viagem não aconteceu** 
 
