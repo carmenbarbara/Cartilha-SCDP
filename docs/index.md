@@ -20,7 +20,6 @@ style="padding: 6px 12px; font-weight: bold; cursor: pointer; border: 1px solid 
 A+
 </button>
 
-
 <button onclick="window.print()"
 style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
 
@@ -30,15 +29,20 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 </div>
 
+### Coleção de Boas Práticas para Melhoria da Experiência do Usuário              
+
+# GUIA 02 - SISTEMA DE CONCESSÃO DE DIÁRIAS E PASSAGENS (SCDP) 
+
 <p style="font-weight: bold; color: #d9534f; margin-top: 10px; margin-bottom: 20px;">
-PÚBLICO-ALVO: SERVIDORES E AGENTES PÚBLICOS USUÁRIOS DO SERVIÇO DO SISTEMA DE CONCESSÃO DE DIÁRIAS E PASSAGENS. 
+PÚBLICO-ALVO: 
+CADASTRADORES GERAIS, PARCIAIS E LOCAIS;  
+RESPONSÁVEIS INSTITUCIONAIS PELA GESTÃO DE ACESSOS;  
+SERVIDORES;  
+COLABORADORES EVENTUAIS;  
+EQUIPE DA CENTRAL DE ATENDIMENTO.  
 </p>
 
-### Coleção de Boas Práticas para Melhoria da Experiência do Usuário    
-### Guia 2           
-
-# SISTEMA DE CONCESSÃO DE DIÁRIAS E PASSAGENS (SCDP)      
-
+### COMO USAR ESTA CARTILHA: 
 O Sistema de Concessão de Diárias e Passagens (SCDP) é a ferramenta do Governo Federal utilizada para solicitar, aprovar, registrar e prestar contas de viagens a serviço, tanto nacionais quanto internacionais. 
 
 Esta cartilha orienta como prestar contas de uma viagem a serviço, tanto pelo aplicativo quanto pelo computador. Também apresenta as instruções para que o **Solicitante de Viagem** possa analisar e concluir o processo. Aqui, são apresentadas as **regras gerais** do SCDP. O seu órgão pode adotar normas internas complementares. 
@@ -49,8 +53,7 @@ Mesmo quando não há pagamento de diárias, a viagem deve ser registrada no sis
 
 Para encontrar a orientação desejada, localize sua situação na lista abaixo e consulte a seção indicada. 
 
-## Formatos de Visualização
-
+### SUMÁRIO DE NAVEGAÇÃO
 Você pode acessar as seções específicas utilizando o menu lateral ou navegar diretamente pelas páginas principais do manual.
 
 * [1. O que é a prestação de contas? ](o-que-e-prestacao-contas.md)
@@ -71,7 +74,6 @@ Você pode acessar as seções específicas utilizando o menu lateral ou navegar
 * [16. Guia Completo](cartilha-completa.md)
 
 ---
-
 <div style="display: flex; justify-content: flex-end; margin: 20px 0;">
 
 <button onclick="window.print()"
