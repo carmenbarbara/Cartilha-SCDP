@@ -30,7 +30,31 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 </div>
 
+# 8. Minha prestação de contas voltou. E agora?
 
+**Assuntos relacionados:** Como a prestação é feita | Quando procurar a Central
+
+Não reinicie o processo. Abra a pendência, leia o que precisa corrigir, faça apenas os ajustes pedidos e envie novamente.
+
+## Pelo aplicativo
+
+1. **Abra a pendência:** O aplicativo avisa por notificação e mostra o alerta no menu Pendências. Toque em Resolver.
+2. **Leia o pedido de correção:** O texto fica abaixo do número do protocolo. Atenção: ao tocar em Resolver, todo o formulário é reaberto. Ajuste apenas os pontos solicitados.
+3. **Corrija e envie novamente:** Substitua o documento, complete o relatório ou ajuste a informação e toque em Encaminhar. Um novo protocolo é gerado e o status volta a Encaminhada.
+4. **Acompanhe:** Pendências resolvidas ficam sombreadas no menu, com data e hora da resolução.
+
+## Pelo SCDP Web (Solicitante é o responsável pelo registro)
+
+1. O Solicitante de Viagem informa o que precisa ser corrigido. O Viajante entrega um documento legível ou completa o relatório e o envia ao Solicitante.
+2. O Solicitante ajusta a prestação de contas no sistema e a envia novamente ao aprovador.
+
+## Pendência de devolução de valores
+
+Quando uma alteração na viagem gera valor a devolver (por exemplo, retorno antecipado), o protocolo vem identificado como “com valores a devolver”. Toque em Resolver, pague as guias disponíveis, anexe o comprovante do tipo “Comprovante de pagamento de guia” e toque em Enviar. O aplicativo gera um protocolo iniciado por DEV.
+
+## Para Solicitantes e Aprovadores
+
+Ao devolver uma prestação, escreva o motivo da devolução de forma clara e completa: diga qual item corrigir e como. Orientações vagas podem fazer a prestação voltar mais vezes e atrasar a conclusão.
 
 ---
 
