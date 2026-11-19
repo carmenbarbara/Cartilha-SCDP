@@ -80,9 +80,9 @@ Em **“Outros documentos”**: lista de presença, certificado, fotos do evento
 
 ### 9. Confira o Resumo e clique em “Encaminhar”
 
-*Antes de enviar, confira os arquivos*
+**Antes de enviar, confira os arquivos**
 
-    Depois que a prestação é encaminhada, os arquivos não podem mais ser removidos. Confira se anexou os documentos certos e se é possível ler todas as informações.
+Depois que a prestação é encaminhada, os arquivos não podem mais ser removidos. Confira se anexou os documentos certos e se é possível ler todas as informações.
 
 !!! warning "Atenção!"
 
@@ -99,9 +99,7 @@ Antes de entrar em contato com a Central de Atendimento, tenha em mãos:
     - Mensagem apresentada pelo sistema;
     - Captura de tela sem dados pessoais expostos.
     
-
-images/Figura-2.png
-
+![Figura2](images/Figura-2.png)
 
 !!! warning "Atenção"
 
