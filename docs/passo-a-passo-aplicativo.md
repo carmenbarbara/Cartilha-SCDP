@@ -22,9 +22,7 @@ A+
 
 <button onclick="window.print()"
 style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
-
 🖨️ Imprimir ou baixar esta página
-
 </button>
 
 </div>
@@ -32,48 +30,46 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 # 5. Passo a passo pelo aplicativo
 
 1. Baixe o SCDP na Google Play ou na Aplicativo Store e entre com sua conta gov.br (Prata ou Ouro).
-   
-3. Em "Minhas Atividades” aparecem as viagens que exigem ação. Todas as viagens estão em “Minhas Viagens a Serviço” (use o filtro “Prestação pendente” ou “Prestação a vencer”). Toque no quadro com os dados da viagem.
 
-4. Clique em **“Preencher”**.
+2. Em "Minhas Atividades” aparecem as viagens que exigem ação. Todas as viagens estão em “Minhas Viagens a Serviço” (use o filtro “Prestação pendente” ou “Prestação a vencer”). Toque no quadro com os dados da viagem.
 
-5. Ao final de cada etapa, clique em **“Prosseguir”** para avançar. O botão fica disponível enquanto a prestação de contas estiver em um dos seguintes status:
+3. Clique em **“Preencher”**.
 
-- Não iniciada
-- Em elaboração
-- Devolvida
-- Aguardando devolução de valores
+4. Ao final de cada etapa, clique em **“Prosseguir”** para avançar. O botão fica disponível enquanto a prestação de contas estiver em um dos seguintes status:
 
-**A viagem ocorreu?**
+   - Não iniciada
+   - Em elaboração
+   - Devolvida
+   - Aguardando devolução de valores
 
-- A opção **“Sim”** já vem marcada.  
-- Se mudar para **“Não”**, informe o motivo e anexe o comprovante (por exemplo, atestado médico).
+5. **A viagem ocorreu?**
 
-**O roteiro ocorreu como cadastrado?** 
+   - A opção **“Sim”** já vem marcada.
+   - Se mudar para **“Não”**, informe o motivo e anexe o comprovante (por exemplo, atestado médico).
 
-Se houve mudança de voo, data ou roteiro, explique no campo de justificativa.
+   **O roteiro ocorreu como cadastrado?**
 
-**6. Comprovando cada trecho da viagem:**
+   Se houve mudança de voo, data ou roteiro, explique no campo de justificativa.
 
-<ul>
-<li><strong>Comprovação automática:</strong> Na modalidade Compra Direta, o SCDP confirmou com a companhia aérea o uso do bilhete. Você não precisa anexar o comprovante.</li>
+6. **Comprovando cada trecho da viagem:**
 
-<li><strong>Pendente:</strong> toque no ícone do lápis, revise os dados, informe se houve alteração e anexe o comprovante de embarque.</li>
+   - **Comprovação automática:** Na modalidade Compra Direta, o SCDP confirmou com a companhia aérea o uso do bilhete. Você não precisa anexar o comprovante.
 
-<li><strong>Inconsistência detectada:</strong> a companhia informou o uso de um bilhete que estava inutilizado. Justifique.</li>
-</ul>
-  
+   - **Pendente:** toque no ícone do lápis, revise os dados, informe se houve alteração e anexe o comprovante de embarque.
+
+   - **Inconsistência detectada:** a companhia informou o uso de um bilhete que estava inutilizado. Justifique.
+
 7. **Inclua despesas adicionais, se houver:**
-   
-Gastos realizados com autorização (por exemplo, bilhete de transporte não atendido pela agência contratada): informe valor, descreva a despesa e anexe o documento **“Comprovante de Gastos Autorizados”**.
+
+   Gastos realizados com autorização (por exemplo, bilhete de transporte não atendido pela agência contratada): informe valor, descreva a despesa e anexe o documento **“Comprovante de Gastos Autorizados”**.
 
 8. **Anexe o relatório e outros documentos.**
-    
-No aplicativo, o Relatório de Viagem é exigido nas viagens internacionais. Nas nacionais, confirme a exigência com seu órgão.
 
-O link **“Exemplo de Relatório”** oferece um modelo. Antes de usá-lo, confirme se seu órgão aceita esse modelo.
+   No aplicativo, o Relatório de Viagem é exigido nas viagens internacionais. Nas nacionais, confirme a exigência com seu órgão.
 
-Em **“Outros documentos”**: lista de presença, certificado, fotos do evento etc.
+   O link **“Exemplo de Relatório”** oferece um modelo. Antes de usá-lo, confirme se seu órgão aceita esse modelo.
+
+   Em **“Outros documentos”**: lista de presença, certificado, fotos do evento etc.
 
 9. **Confira o Resumo e clique em “Encaminhar”.**
 
@@ -83,13 +79,14 @@ Em **“Outros documentos”**: lista de presença, certificado, fotos do evento
 
 !!! warning "Atenção!"
 
-    Se o envio estiver bloqueado:
-    Se aparecer a mensagem **“O envio não pode ser realizado neste momento.”**, aguarde alguns instantes e tente novamente.
+    Se o envio estiver bloqueado e aparecer a mensagem **“O envio não pode ser realizado neste momento.”**, aguarde alguns instantes e tente novamente.
+
     - Verifique se a viagem continua disponível para preenchimento.
     - Tente realizar o envio novamente mais tarde.
     - Se a mensagem continuar aparecendo, procure a Central de Atendimento e informe a mensagem exibida pelo sistema.
 
-Antes de entrar em contato com a Central de Atendimento, tenha em mãos:
+    Antes de entrar em contato com a Central de Atendimento, tenha em mãos:
+
     - Número da PCDP;
     - Data e horário aproximados da ocorrência;
     - Mensagem apresentada pelo sistema;
@@ -103,19 +100,15 @@ Antes de entrar em contato com a Central de Atendimento, tenha em mãos:
 
 ## Resultado esperado
 
-Depois do envio, a situação muda para **“Encaminhada”**. O Solicitante analisa a prestação de contas e a autoridade decide sobre a aprovação. Após a aprovação, o processo é encerrcebe uma notificação.
+Depois do envio, a situação muda para **“Encaminhada”**. O Solicitante analisa a prestação de contas e a autoridade decide sobre a aprovação. Após a aprovação, o processo é encerrado e você recebe uma notificação.
 
 ---
 
-<div style="display: flex; justify-content: flex-end; margin: 20px 0;">
+<div style="display: flex; justifyx-end; margin: 20px 0;">
 
 <button onclick="window.print()"
 style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
-
 🖨️ Imprimir ou baixar esta página
-
 </button>
 
 </div>
-
-
