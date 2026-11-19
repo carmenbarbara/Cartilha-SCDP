@@ -32,9 +32,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 # 4. Aplicativo ou computador: qual usar?
 
-<p align="center">
-  <img src="images/Figura-3.png" alt="Figura 3" width="700">
-</p>
+![Figura 3](images/Figura-3.png)
 
 Para fazer a prestação de contas pelo aplicativo SCDP. Preencha as informações solicitadas, anexe os documentos necessários, revise os dados e toque em **"Encaminhar"**.
 
