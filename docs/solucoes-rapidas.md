@@ -31,7 +31,9 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 </div>
 
 # 11. Deu problema? Soluções rápidas
-**Assuntos relacionados: Quando procurar a Central | Status** 
+
+**Assuntos relacionados: Quando procurar a Central | Status**
+
 | O QUE ACONTECE | CAUSA PROVÁVEL | O QUE FAZER |
 |----------|----------|----------|
 | Não vejo minha viagem no aplicativo | A viagem ainda não passou pela aprovação administrativa, ou é de ano anterior à versão atual do SCDP (2014). | Confirme com o Solicitante de Viagem o andamento. Para viagens antigas, peça a relação de pendências ao Solicitante de Viagem ou ao Gestor Setorial. |
@@ -46,7 +48,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 | Preciso de perfil de Solicitante ou acesso ao SCDP Web | Perfis são concedidos pelo Gestor Setorial do órgão. | Procure o Gestor Setorial do SCDP do seu órgão. |
 | Há uma pendência de prestação de contas em uma unidade administrativa diferente do meu órgão de lotação | Não foi realizada a aprovação pela autoridade competente. | A pendência pode ser consultada por meio do aplicativo. Se necessário, solicite à Central de Atendimento o contato do responsável no órgão onde ela se encontra. |
 
-## Erros mais comuns e como evitá-los
+### Erros mais comuns e como evitá-los
 
 | ERRO FREQUENTE | COMO EVITAR |
 |----------|----------|
