@@ -78,7 +78,7 @@ Se aparecer a mensagem **"O envio não pode ser realizado neste momento."**, agu
     - Tente realizar o envio novamente mais tarde.  
     - Se a mensagem continuar aparecendo, procure a Central de Atendimento e informe a mensagem exibida pelo sistema.  
 
-Antes de entrar em contato com a Central de Atendimento, tenha em mãos:
+Antes de entrar em contato com a Central de Atendimento, tenha em mãos:  
     - Número da PCDP  
     - Data e horário aproximados da ocorrência  
     - Mensagem apresentada pelo sistema  
