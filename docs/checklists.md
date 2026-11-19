@@ -30,9 +30,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 </div>
 
-13. LISTAS DE VERIFICAÇÃO POR PERFIL 
-
- 
+# 13. Listas de verificação por perfil  
 
 ### Proposto (viajante)  
 
