@@ -36,41 +36,41 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 ### Proposto (viajante)  
 
-☐ guardei bilhetes e cartões de embarque de ida e volta;  
+☐ guardar bilhetes e cartões de embarque de ida e volta;  
 
-☐ conferi se minha viagem aparece no aplicativo e qual é o status;  
+☐ conferir se minha viagem aparece no aplicativo e qual é o status;  
 
-☐ preenchi a prestação no aplicativo (ou entreguei os documentos ao Solicitante) em até 5 dias do retorno;  
+☐ preencher a prestação no aplicativo (ou entreguei os documentos ao Solicitante) em até 5 dias do retorno;  
 
-☐ anexei o relatório (quando exigido) e os comprovantes legíveis;  
+☐ anexar o relatório (quando exigido) e os comprovantes legíveis;  
 
-☐ guardei o protocolo de envio;  
+☐ guardar o protocolo de envio;  
 
-☐ acompanhei as notificações e resolvi as pendências, inclusive o pagamento da GRU, se houve.  
+☐ acompanhar as notificações e resolvi as pendências, inclusive o pagamento da GRU, se houve.  
 
 ### Solicitante de Viagem  
 
-☐ conferi se a prestação foi iniciada pelo Proposto (aplicativo) ou se devo registrá-la no SCDP Web;  
+☐ conferir se a prestação foi iniciada pelo Proposto (aplicativo) ou se devo registrá-la no SCDP Web;  
 
-☐   conferi se os documentos estão legíveis e assinados e se as informações do relatório, dos comprovantes e dos trechos são compatíveis;  
+☐ verificar se os documentos estão legíveis e assinados e se as informações do relatório, dos comprovantes e dos trechos são compatíveis;  
 
-☐ ajustei trechos e bilhetes à situação real e anexei os documentos (com “Visível no aplicativo” quando couber);  
+☐ ajustar trechos e bilhetes à situação real e anexei os documentos (com “Visível no aplicativo” quando couber);  
 
-☐ devolvi com apontamento claro quando faltou algo;  
+☐ devolver com apontamento claro quando faltou algo;  
 
-☐ emiti a GRU e informei o Proposto quando havia valor a devolver;  
+☐ emitir a GRU e informei o Proposto quando havia valor a devolver;  
 
-☐ encaminhei ao aprovador dentro do prazo.  
+☐ encaminhar ao aprovador dentro do prazo.  
 
  
 
 ### Aprovador  
 
-☐ verifiquei a coerência entre relatório, comprovantes e dados da PCDP;  
+☐ verificar a coerência entre relatório, comprovantes e dados da PCDP;  
 
-☐ registrei com clareza o que precisava ser corrigido quando devolvi a prestação;  
+☐ registrar com clareza o que precisava ser corrigido quando devolvi a prestação;  
 
-☐ decidi a aprovação sem deixar a prestação de contas parada.  
+☐ decidir a aprovação sem deixar a prestação de contas parada.  
 
 ---
 
