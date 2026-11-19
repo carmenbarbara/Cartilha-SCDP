@@ -53,11 +53,11 @@ Se houve mudança de voo, data ou roteiro, explique no campo de justificativa.
 
 6. **Comprovando cada trecho da viagem:**
 
-- **Comprovação “Automática”:** Na modalidade Compra Direta, o SCDP confirmou com a companhia aérea o uso do bilhete. Você não precisa anexar o comprovante.
+- **Comprovação “Automática”:** Na modalidade Compra Direta, o SCDP confirmou com a companhia aérea o uso do bilhete. Você não precisa anexar o comprovante.  
   
-- **“Pendente”:** toque no ícone do lápis, revise os dados, informe se houve alteração e anexe o comprovante de embarque.
+- **“Pendente”:** toque no ícone do lápis, revise os dados, informe se houve alteração e anexe o comprovante de embarque.  
   
-- **“Inconsistência detectada”:** a companhia informou o uso de um bilhete que estava inutilizado. Justifique.
+- **“Inconsistência detectada”:** a companhia informou o uso de um bilhete que estava inutilizado. Justifique.  
 
 7. **Inclua despesas adicionais, se houver:**
 Gastos realizados com autorização (por exemplo, bilhete de transporte não atendido pela agência contratada): informe valor, descreva a despesa e anexe o documento **“Comprovante de Gastos Autorizados”**.
