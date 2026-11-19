@@ -136,108 +136,35 @@ Também é possível iniciar a prestação de contas antes da viagem, por exempl
 
 # 4. Aplicativo ou computador: qual usar?
 
-texto introdutório
+<p align="center">
+  <img src="images/Figura-3.png" alt="Figura 3" width="700">
+</p>
 
-### O botão "Preencher" aparece no aplicativo?
-
-✅ **Sim**
-
-Faça a prestação de contas pelo aplicativo SCDP. Preencha as informações solicitadas, anexe os documentos necessários, revise os dados e toque em **"Encaminhar"**.
-
-✅ **Não**
-
-Verifique se aparece a mensagem:
-
-> "Prestação de Contas iniciada pelo órgão que cadastrou a viagem."
-
-Se essa mensagem aparecer, a prestação de contas está sendo conduzida pelo Solicitante de Viagem no SCDP Web. Reúna os documentos necessários e encaminhe-os ao Solicitante responsável.
-
-✅ **Ainda tem dúvida?**
-
-Procure o Solicitante de Viagem responsável pelo afastamento para confirmar se a prestação de contas será realizada pelo aplicativo ou pelo SCDP Web.
-
-| Aplicativo SCDP | SCDP Web (computador) |
-|----------------|------------------------|
-| **Quem realiza a prestação de contas?** | |
-| O próprio Proposto (viajante). | O Solicitante de Viagem, utilizando os documentos fornecidos pelo Proposto. |
-| **Quando utilizar?** | |
-| Quando o botão **"Preencher"** estiver disponível na viagem. | Quando a prestação de contas estiver sendo realizada pelo órgão. |
-| **O que posso fazer?** | |
-| Informar dados da viagem, anexar documentos, resolver pendências e acompanhar o andamento da prestação de contas. | Registrar, analisar e ajustar informações, anexar documentos e encaminhar a prestação de contas para aprovação. |
-| **Como acompanhar o andamento?** | |
-| O aplicativo exibe a situação da prestação de contas e envia notificações. | O acompanhamento é realizado no SCDP Web até a aprovação final. |
+Para fazer a prestação de contas pelo aplicativo SCDP. Preencha as informações solicitadas, anexe os documentos necessários, revise os dados e toque em **"Encaminhar"**.
 
 !!! warning "Atenção"
 
     Se aparecer a mensagem **"Prestação de Contas iniciada pelo órgão que cadastrou a viagem"**, significa que o Solicitante de Viagem está conduzindo a prestação de contas no SCDP Web. Nesse caso, reúna os documentos necessários e encaminhe-os ao responsável pelo processo.
 
-# 5. Passo a passo pelo aplicativo
+✅ **Ainda tem dúvida?**
 
-**Assuntos relacionados:** Documentos e bilhetes | Minha prestação voltou
+Procure o Solicitante de Viagem responsável para confirmar se a prestação de contas será realizada pelo aplicativo ou pelo SCDP Web.
 
-*Figura 2*
+| Aspecto | Aplicativo SCDP | SCDP Web |
+|----------|----------|----------|
+| Quem realiza? | Proposto (viajante). | Solicitante de Viagem. |
+| Quando utilizar? | Quando o botão **"Preencher"** estiver disponível. | Quando a prestação de contas for conduzida pelo órgão. |
+| O que fazer? | Informar dados, anexar documentos, resolver pendências e acompanhar o processo. | Registrar, analisar, ajustar dados, anexar documentos e encaminhar para aprovação. |
+| Acompanhamento | Situação exibida no aplicativo com notificações. | Realizado no SCDP Web até a aprovação final. |
 
-Abra o aplicativo SCDP → **Minhas Atividades** → selecione a viagem → **Preencher** → siga as telas → **Encaminhar**.
+---
 
-Guarde o protocolo gerado, pois ele comprova o envio dos documentos.
+<div style="display: flex; justify-content: flex-end; margin: 20px 0;">
 
-1. **Entre no aplicativo:** baixe o aplicativo SCDP na Google Play ou na App Store e acesse com sua conta Gov.br (nível Prata ou Ouro).
+<button onclick="window.print()"
+style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
 
-2. **Encontre a viagem:** em **Minhas Atividades** aparecem as viagens que exigem alguma ação. Todas as viagens também estão disponíveis em **Minhas Viagens a Serviço**. Utilize os filtros **"Prestação pendente"** ou **"Prestação a vencer"**. Em seguida, toque no cartão da viagem.
-
-3. **Clique em "Preencher":** ao final de cada etapa, toque em **"Prosseguir"** para avançar. O botão ficará disponível enquanto a prestação de contas estiver em um dos seguintes status:
-
-   - Não iniciada;
-   - Em elaboração;
-   - Devolvida;
-   - Aguardando devolução de valores.
-
-4. **Confirme a viagem:** a viagem ocorreu? A opção **"Sim"** já vem selecionada. Caso altere para **"Não"**, informe o motivo e anexe o respectivo comprovante, como um atestado médico. O roteiro ocorreu conforme cadastrado? Se houver alteração de voo, data ou itinerário, informe a justificativa no campo correspondente.
-
-5. **Comprove os bilhetes, trecho por trecho:**
-
-   - **Comprovação automática:** na modalidade Compra Direta, o SCDP confirma junto à companhia aérea a utilização do bilhete. Nesse caso, não é necessário anexar comprovante.
-   - **Pendente:** toque no ícone ✏️ **"Editar"**, revise os dados, informe se houve alteração e anexe o comprovante de embarque.
-   - **Inconsistência detectada:** a companhia aérea informou a utilização de um bilhete que constava como inutilizado. Nesse caso, apresente a justificativa solicitada.
-
-6. **Inclua despesas adicionais, se houver:** para despesas realizadas com autorização prévia, como a aquisição de bilhete de transporte não atendido pela agência contratada, informe o valor, descreva a despesa e anexe o documento comprobatório correspondente.
-
-7. **Anexe o relatório e outros documentos:** no aplicativo, o Relatório de Viagem é exigido para viagens internacionais. Nas viagens nacionais, confirme junto ao seu órgão se a apresentação é necessária. O link **"Exemplo de Relatório"** disponibiliza um modelo de referência. Antes de utilizá-lo, confirme se o modelo é aceito pelo seu órgão.
-
-   Em **"Outros documentos"**, podem ser anexados, por exemplo:
-
-   - lista de presença;
-   - certificado;
-   - fotos do evento;
-   - outros documentos relacionados à viagem.
-
-8. **Confira o resumo e clique em "Encaminhar":** revise todas as informações apresentadas no resumo da prestação de contas. Se o envio ocorrer após cinco dias do retorno da viagem, o aplicativo solicitará uma justificativa para o atraso. Após a confirmação, será gerado um protocolo contendo a data e a hora do envio. Esse protocolo permanecerá disponível na seção **"Resumo"**.
-
-!!! warning "Atenção"
-
-    Depois que a prestação de contas é encaminhada, os arquivos anexados não podem mais ser removidos. Antes do envio, verifique se todos os documentos estão corretos e se as informações estão legíveis.
-
-## Se o envio estiver bloqueado
-
-Se aparecer a mensagem **"O envio não pode ser realizado neste momento"**, aguarde alguns instantes e tente novamente.
-
-1. Verifique se a viagem continua disponível para preenchimento.
-2. Tente realizar o envio novamente mais tarde.
-3. Se a mensagem continuar sendo exibida, entre em contato com a Central de Atendimento e informe a mensagem apresentada pelo sistema.
-
-**Antes de solicitar atendimento, tenha em mãos:**
-
-1. Número da PCDP.
-2. Data e horário aproximados da ocorrência.
-3. Mensagem apresentada pelo sistema.
-4. Captura de tela sem dados pessoais expostos.
-
-## Resultado esperado
-
-Após o envio, a situação da prestação de contas será alterada para **"Encaminhada"**. O Solicitante de Viagem analisará a prestação de contas, e a autoridade competente decidirá sobre sua aprovação.
-
-Após a aprovação, o processo será encerrado, e o Proposto receberá uma notificação.
-
+---
 ---
 
 # 9. Exceções e devolução de valores:  
