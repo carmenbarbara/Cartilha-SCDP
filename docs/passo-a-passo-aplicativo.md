@@ -89,15 +89,16 @@ Depois que a prestação é encaminhada, os arquivos não podem mais ser removid
 
     - Verifique se a viagem continua disponível para preenchimento.
     - Tente realizar o envio novamente mais tarde.
-    - Se a mensagem continuar aparecendo, procure a Central de Atendimento e informe a mensagem exibida pelo sistema.  
+    - Se a mensagem continuar aparecendo, procure a Central de Atendimento e informe a mensagem exibida pelo sistema.          
 
+Antes de entrar em contato com a Central de Atendimento, tenha em mãos:
 
-Antes de entrar em contato com a Central de Atendimento, tenha em mãos:    
-
-    - Número da PCDP  
-    - Data e horário aproximados da ocorrência  
-    - Mensagem apresentada pelo sistema  
-    - Captura de tela sem dados pessoais expostos  
+<ul>
+<li>Número da PCDP;</li>
+<li>Data e horário aproximados da ocorrência;</li>
+<li>Mensagem apresentada pelo sistema;</li>
+<li>Captura de tela sem dados pessoais expostos.</li>
+</ul>
     
 ![Figura2](images/Figura-2.png)
 
