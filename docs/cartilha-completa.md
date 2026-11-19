@@ -173,8 +173,7 @@ Procure o Solicitante de Viagem responsável para confirmar se a prestação de 
    - Aguardando devolução de valores
 
 5. **A viagem ocorreu?**  
-   A opção **“Sim”** já vem marcada. Se mudar para **“Não”**, informe o motivo e anexe o comprovante (por exemplo, atestado médico).
-
+     Caso tenha ocorrido, a opção **“Sim”** já vem marcada. Se for preciso mudar para **“Não”**, informe o motivo e anexe o comprovante do que impediu a viagem (por exemplo, atestado médico).
    **O roteiro ocorreu como cadastrado?**   
    Se houve mudança de voo, data ou roteiro, explique no campo de justificativa.
 
