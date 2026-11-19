@@ -51,21 +51,21 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
    Se houve mudança de voo, data ou roteiro, explique no campo de justificativa.
 
 7. **Comprovando cada trecho da viagem:**  
-   **-Comprovação automática:** Na modalidade Compra Direta, o SCDP confirmou com a companhia aérea o uso do bilhete. Você não precisa anexar o comprovante.
-   **- Pendente:** toque no ícone do lápis, revise os dados, informe se houve alteração e anexe o comprovante de embarque.
+   **-Comprovação automática:** Na modalidade Compra Direta, o SCDP confirmou com a companhia aérea o uso do bilhete. Você não precisa anexar o comprovante.  
+   **- Pendente:** toque no ícone do lápis, revise os dados, informe se houve alteração e anexe o comprovante de embarque.  
    **-Inconsistência detectada:** a companhia informou o uso de um bilhete que estava inutilizado. Justifique.
 
-8. **Inclua despesas adicionais, se houver:**
+9. **Inclua despesas adicionais, se houver:**
    Gastos realizados com autorização (por exemplo, bilhete de transporte não atendido pela agência contratada): informe valor, descreva a despesa e anexe o documento **“Comprovante de Gastos Autorizados”**.
 
-9. **Anexe o relatório e outros documentos.**
+10. **Anexe o relatório e outros documentos.**
    No aplicativo, o Relatório de Viagem é exigido nas viagens internacionais. Nas nacionais, confirme a exigência com seu órgão.
 
    O link **“Exemplo de Relatório”** oferece um modelo. Antes de usá-lo, confirme se seu órgão aceita esse modelo.
 
    Em **“Outros documentos”**: lista de presença, certificado, fotos do evento etc.
 
-10. **Confira o Resumo e clique em “Encaminhar”.**
+11. **Confira o Resumo e clique em “Encaminhar”.**
 
 ![Figura 2](images/Figura-2.png)
 
