@@ -34,12 +34,13 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 A prestação de contas envolve diferentes perfis no Sistema de Concessão de Diárias e Passagens (SCDP), cada um com responsabilidades específicas relacionadas ao registro, à análise e à aprovação das informações da viagem.
 
-| Aspecto | Aplicativo SCDP | SCDP Web |
-|----------|----------|----------|
-| Quem realiza? | Proposto. | Solicitante de Viagem. |
-| Quando usar? | Quando o botão **Preencher** estiver disponível. | Quando a prestação de contas estiver sendo conduzida pelo órgão. |
-| O que fazer? | Informar dados, anexar documentos, resolver pendências e acompanhar o processo. | Registrar, analisar, ajustar informações, anexar documentos e encaminhar para aprovação. |
-| Como acompanhar? | Pelo aplicativo, com notificações e consulta da situação. | Pelo SCDP Web até a aprovação final. |
+| PAPEL | O QUE FAZ NA PRESTAÇÃO DE CONTAS |
+|---------|---------|
+| Proposto (quem viaja) | Anexa os comprovantes da viagem no aplicativo. Se não puder enviá-los por esse canal, encaminha ao Solicitante de Viagem, que registrará a prestação de contas no SCDP Web. Se houver valores a devolver, o pagamento deverá ser efetuado por meio de Guia de Recolhimento da União (GRU). |
+| Solicitante de Viagem | Cadastra a viagem no SCDP Web, registra a prestação de contas (analisa os documentos que o Proposto enviou pelo aplicativo). Confere dados e anexos e encaminha para aprovação. Emite a GRU quando há valor a devolver. |
+| Ação Administrativa Proponente ou autoridade competente | Aprova a prestação de contas, o que encerra a viagem, ou devolve e explica o que precisa ser corrigido. |
+| Gestor Setorial do SCDP | Gerencia usuários e perfis do SCDP de acordo com a legislação e as normas internas do órgão. |
+| Central de Atendimento | Orienta sobre o uso do sistema, registra e encaminha ocorrências relacionadas ao funcionamento do aplicativo ou do SCDP Web. |
 
 !!! note "Nota"
 
