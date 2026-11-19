@@ -73,13 +73,13 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 9. **Confira o Resumo e clique em “Encaminhar”.**
 
-!!! warning "Antes de enviar, confira os arquivos"
-
 <p align="center">
   <img src="images/Figura-2.png" alt="Figura 2" width="700">
 </p>
 
-    Depois que a prestação é encaminhada, os arquivos não podem mais ser removidos. Confira se anexou os documentos certos e se é possível ler todas as informações.
+!!! warning "Atenção"
+
+    Antes de enviar, confira os arquivos. Depois que a prestação é encaminhada, os arquivos não podem mais ser removidos. Confira se       anexou os documentos certos e se é possível ler todas as informações.
 
 Se aparecer a mensagem **"O envio não pode ser realizado neste momento."**, aguarde alguns instantes e tente novamente.
     - Verifique se a viagem continua disponível para preenchimento.
