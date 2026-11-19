@@ -30,7 +30,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 </div>
 
-# 9. EXCEÇÕES E DEVOLUÇÃO DE VALORES 
+# 9. Exceções e devolução de valores:  
 
 Assuntos relacionados: Prazo e consequências | Quando procurar a Central 
 
