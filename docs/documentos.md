@@ -48,9 +48,9 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 - Antes de viajar: salve bilhetes e cartões de embarque no celular e fotografe os canhotos físicos.
 - Na volta: envie PDF ou imagem legível, com nomes claros (ex.: cartao_embarque_ida.pdf).
 
-## Atenção
+!!!warning "Atenção"
 
-As regras internas do seu órgão podem exigir outros documentos. Confirme a lista com o Solicitante de Viagem antes de entregar. Como boa prática administrativa também recomenda-se incluir convites, programações, certificados ou folders.
+   As regras internas do seu órgão podem exigir outros documentos. Confirme a lista com o   Solicitante de Viagem antes de entregar. Como boa prática administrativa também recomenda-se incluir convites, programações, certificados ou folders.
 
 ## Problemas com o comprovante
 
