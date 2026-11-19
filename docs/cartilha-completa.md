@@ -149,7 +149,28 @@ Também é possível iniciar a prestação de contas antes da viagem, por exempl
     O prazo para prestação de contas é contado a partir da data de retorno da viagem. O descumprimento desse prazo poderá resultar em restrições para novas viagens e em outras consequências previstas na legislação e nos normativos aplicáveis.
 
 ---
+# 4. Aplicativo ou computador: qual usar?
 
+![Figura 3](images/Figura-3.png)
+
+Para fazer a prestação de contas pelo aplicativo SCDP. Preencha as informações solicitadas, anexe os documentos necessários, revise os dados e toque em **"Encaminhar"**.
+
+!!! warning "Atenção"
+
+    Se aparecer a mensagem **"Prestação de Contas iniciada pelo órgão que cadastrou a viagem"**, significa que o Solicitante de Viagem está conduzindo a prestação de contas no SCDP Web. Nesse caso, reúna os documentos necessários e encaminhe-os ao responsável pelo processo.
+
+✅ **Ainda tem dúvida?**
+
+Procure o Solicitante de Viagem responsável para confirmar se a prestação de contas será realizada pelo aplicativo ou pelo SCDP Web.
+
+| Aspecto | Aplicativo SCDP | SCDP Web |
+|----------|----------|----------|
+| Quem realiza? | Proposto (viajante). | Solicitante de Viagem. |
+| Quando utilizar? | Quando o botão **"Preencher"** estiver disponível. | Quando a prestação de contas for conduzida pelo órgão. |
+| O que fazer? | Informar dados, anexar documentos, resolver pendências e acompanhar o processo. | Registrar, analisar, ajustar dados, anexar documentos e encaminhar para aprovação. |
+| Acompanhamento | Situação exibida no aplicativo com notificações. | Realizado no SCDP Web até a aprovação final. |
+
+---
 
 ---
 
