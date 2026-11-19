@@ -222,9 +222,9 @@ Em **“Outros documentos”**: lista de presença, certificado, fotos do evento
 
 ### 9. Confira o Resumo e clique em “Encaminhar”
 
-*Antes de enviar, confira os arquivos*
+**Antes de enviar, confira os arquivos**
 
-    Depois que a prestação é encaminhada, os arquivos não podem mais ser removidos. Confira se anexou os documentos certos e se é possível ler todas as informações.
+Depois que a prestação é encaminhada, os arquivos não podem mais ser removidos. Confira se anexou os documentos certos e se é possível ler todas as informações.
 
 !!! warning "Atenção!"
 
@@ -241,9 +241,7 @@ Antes de entrar em contato com a Central de Atendimento, tenha em mãos:
     - Mensagem apresentada pelo sistema;
     - Captura de tela sem dados pessoais expostos.
     
-
-images/Figura-2.png
-
+![Figura2](images/Figura-2.png)
 
 !!! warning "Atenção"
 
@@ -252,16 +250,6 @@ images/Figura-2.png
 ### Resultado esperado
 
 Depois do envio, a situação muda para **“Encaminhada”**. O Solicitante analisa a prestação de contas e a autoridade decide sobre a aprovação. Após a aprovação, o processo é encerrado e você recebe uma notificação.
-
-
-![Figura-2](images/Figura-2.png)
-
-!!! warning "Atenção"
-
-    Guarde o protocolo gerado, pois ele comprova o envio dos documentos.
-
-## Resultado esperado
-Depois do envio, a situação muda para **“Encaminhada”**. O Solicitante analisa a prestação de contas e a autoridade decide sobre a aprovação. Após a aprovação, o processo é encerrcebe uma notificação.
 
 ---
 
