@@ -32,7 +32,7 @@ A prestação de contas é realizada no SCDP, mediante o registro das informaç�
 
 A obrigatoriedade da prestação de contas está prevista na Constituição Federal (art. 70, parágrafo único), no [Decreto nº 5.992, de 2006](https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/decreto/d5992.htm) e na [Instrução Normativa SLTI/MP nº 3, de 2015](https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-3-de-11-de-fevereiro-de-2015), que estabelece a realização da prestação de contas no SCDP no prazo de até cinco dias após o retorno da viagem.
 
-images/Figura-1.png
+![Figura 1](images/Figura-1.png)
 
 As referências normativas citadas estão disponíveis ao final desta cartilha.
 
