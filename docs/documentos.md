@@ -30,6 +30,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 </div>
 
 # 7. Documentos e comprovação de bilhetes
+**Assuntos relacionados:** Prazo | Passo a passo pelo aplicativo 
 
 | DOCUMENTO | QUANDO É NECESSÁRIO | ORIENTAÇÃO |
 |------------|------------|------------|
@@ -42,7 +43,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 | Justificativa de atraso | Quando o envio ocorre após 5 dias do retorno. | Exigida pelo sistema. Seja objetivo. |
 | GRU e comprovante de pagamento | Quando há valor a devolver. | Veja a seção 9. |
 
-## Facilite sua prestação de contas
+### Facilite sua prestação de contas
 
 - Antes de viajar: salve bilhetes e cartões de embarque no celular e fotografe os canhotos físicos.
 - Na volta: envie PDF ou imagem legível, com nomes claros (ex.: cartao_embarque_ida.pdf).
@@ -73,5 +74,3 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 </button>
 
 </div>
-
-
