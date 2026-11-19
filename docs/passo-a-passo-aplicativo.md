@@ -1,56 +1,81 @@
-1. Baixe o SCDP na Google Play ou na Aplicativo Store e entre com sua conta gov.br (Prata ou Ouro).
+# 5. Passo a passo pelo aplicativo
 
-2. Em "Minhas Atividades” aparecem as viagens que exigem ação. Todas as viagens estão em “Minhas Viagens a Serviço” (use o filtro “Prestação pendente” ou “Prestação a vencer”). Toque no quadro com os dados da viagem.
+### 1. Baixe o SCDP na Google Play ou na Aplicativo Store e entre com sua conta gov.br (Prata ou Ouro).
 
-3. Clique em **“Preencher”**.
+### 2. Em "Minhas Atividades” aparecem as viagens que exigem ação.
 
-4. Ao final de cada etapa, clique em **“Prosseguir”** para avançar. O botão fica disponível enquanto a prestação de contas estiver em um dos seguintes status:
+Todas as viagens estão em “Minhas Viagens a Serviço” (use o filtro “Prestação pendente” ou “Prestação a vencer”). Toque no quadro com os dados da viagem.
 
-   - Não iniciada
-   - Em elaboração
-   - Devolvida
-   - Aguardando devolução de valores
+### 3. Clique em “Preencher”.
 
-5. **A viagem ocorreu?**
+### 4. Ao final de cada etapa, clique em “Prosseguir” para avançar.
 
-   - A opção **“Sim”** já vem marcada.
-   - Se mudar para **“Não”**, informe o motivo e anexe o comprovante (por exemplo, atestado médico).
+O botão fica disponível enquanto a prestação de contas estiver em um dos seguintes status:
 
-   **O roteiro ocorreu como cadastrado?**
+- Não iniciada
+- Em elaboração
+- Devolvida
+- Aguardando devolução de valores
 
-   Se houve mudança de voo, data ou roteiro, explique no campo de justificativa.
+### 5. A viagem ocorreu?
 
-6. **Comprovando cada trecho da viagem:**
+- A opção **“Sim”** já vem marcada.
+- Se mudar para **“Não”**, informe o motivo e anexe o comprovante (por exemplo, atestado médico).
 
-   - **Comprovação automática:** Na modalidade Compra Direta, o SCDP confirmou com a companhia aérea o uso do bilhete. Você não precisa anexar o comprovante.
+**O roteiro ocorreu como cadastrado?**
 
-   - **Pendente:** toque no ícone do lápis, revise os dados, informe se houve alteração e anexe o comprovante de embarque.
+Se houve mudança de voo, data ou roteiro, explique no campo de justificativa.
 
-   - **Inconsistência detectada:** a companhia informou o uso de um bilhete que estava inutilizado. Justifique.
+### 6. Comprovando cada trecho da viagem
 
-7. **Inclua despesas adicionais, se houver:**
+- **Comprovação automática:** Na modalidade Compra Direta, o SCDP confirmou com a companhia aérea o uso do bilhete. Você não precisa anexar o comprovante.
 
-   Gastos realizados com autorização (por exemplo, bilhete de transporte não atendido pela agência contratada): informe valor, descreva a despesa e anexe o documento **“Comprovante de Gastos Autorizados”**.
+- **Pendente:** toque no ícone do lápis, revise os dados, informe se houve alteração e anexe o comprovante de embarque.
 
-8. **Anexe o relatório e outros documentos.**
+- **Inconsistência detectada:** a companhia informou o uso de um bilhete que estava inutilizado. Justifique.
 
-   No aplicativo, o Relatório de Viagem é exigido nas viagens internacionais. Nas nacionais, confirme a exigência com seu órgão.
+### 7. Inclua despesas adicionais, se houver
 
-   O link **“Exemplo de Relatório”** oferece um modelo. Antes de usá-lo, confirme se seu órgão aceita esse modelo.
+Gastos realizados com autorização (por exemplo, bilhete de transporte não atendido pela agência contratada): informe valor, descreva a despesa e anexe o documento **“Comprovante de Gastos Autorizados”**.
 
-   Em **“Outros documentos”**: lista de presença, certificado, fotos do evento etc.
+### 8. Anexe o relatório e outros documentos
 
-9. **Confira o Resumo e clique em “Encaminhar”.**
+No aplicativo, o Relatório de Viagem é exigido nas viagens internacionais. Nas nacionais, confirme a exigência com seu órgão.
 
+O link **“Exemplo de Relatório”** oferece um modelo. Antes de usá-lo, confirme se seu órgão aceita esse modelo.
 
+Em **“Outros documentos”**: lista de presença, certificado, fotos do evento etc.
 
+### 9. Confira o Resumo e clique em “Encaminhar”
 
+!!! warning "Atenção! Antes de enviar, confira os arquivos"
 
+    Depois que a prestação é encaminhada, os arquivos não podem mais ser removidos. Confira se anexou os documentos certos e se é possível ler todas as informações.
 
+!!! warning "Atenção!"
 
+    Se o envio estiver bloqueado e aparecer a mensagem **“O envio não pode ser realizado neste momento.”**, aguarde alguns instantes e tente novamente.
 
+    - Verifique se a viagem continua disponível para preenchimento.
+    - Tente realizar o envio novamente mais tarde.
+    - Se a mensagem continuar aparecendo, procure a Central de Atendimento e informe a mensagem exibida pelo sistema.
 
+    Antes de entrar em contato com a Central de Atendimento, tenha em mãos:
 
+    - Número da PCDP;
+    - Data e horário aproximados da ocorrência;
+    - Mensagem apresentada pelo sistema;
+    - Captura de tela sem dados pessoais expostos.
+
+images/Figura-2.png
+
+!!! warning "Atenção"
+
+    Guarde o protocolo gerado, pois ele comprova o envio dos documentos.
+
+## Resultado esperado
+
+Depois do envio, a situação muda para **“Encaminhada”**. O Solicitante analisa a prestação de contas e a autoridade decide sobre a aprovação. Após a aprovação, o processo é encerrado e você recebe uma notificação.
 
 
 
