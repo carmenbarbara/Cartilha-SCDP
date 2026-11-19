@@ -76,9 +76,7 @@ A prestação de contas é realizada no SCDP, mediante o registro das informaç�
 
 A obrigatoriedade da prestação de contas está prevista na Constituição Federal (art. 70, parágrafo único), no Decreto nº 5.992/2006 e na Instrução Normativa SLTI/MP nº 3/2015, que determina sua realização no SCDP em até cinco dias após o retorno da viagem. 
 
-<p align="center">
-  <img src="images/Figura-1.png" alt="Figura 1" width="700">
-</p>
+![Figura 1](images/Figura-1.png)
 
 As referências normativas citadas estão disponíveis ao final desta cartilha. 
 
@@ -139,9 +137,7 @@ Também é possível iniciar a prestação de contas antes da viagem, por exempl
 
 # 4. Aplicativo ou computador: qual usar?
 
-<p align="center">
-  <img src="images/Figura-3.png" alt="Figura 3" width="700">
-</p>
+![Figura 3](images/Figura-3.png)
 
 Para fazer a prestação de contas pelo aplicativo SCDP. Preencha as informações solicitadas, anexe os documentos necessários, revise os dados e toque em **"Encaminhar"**.
 
@@ -162,13 +158,6 @@ Procure o Solicitante de Viagem responsável para confirmar se a prestação de 
 
 ---
 
-<div style="display: flex; justify-content: flex-end; margin: 20px 0;">
-
-<button onclick="window.print()"
-style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
-
----
-
 # 5. Passo a passo pelo aplicativo
 
 1. Baixe o SCDP na Google Play ou na Aplicativo Store e entre com sua conta gov.br (Prata ou Ouro).
@@ -177,19 +166,16 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 3. Clique em **“Preencher”**.
 
-4. Ao final de cada etapa, clique em **“Prosseguir”** para avançar. O botão fica disponível enquanto a prestação de contas estiver em um dos seguintes status:
-
+4. Ao final de cada etapa, clique em **“Prosseguir”** para avançar. O botão fica disponível enquanto a prestação de contas estiver em um dos seguintes status:  
    - Não iniciada
    - Em elaboração
    - Devolvida
    - Aguardando devolução de valores
 
-5. **A viagem ocorreu?**
-
+5. **A viagem ocorreu?**  
    A opção **“Sim”** já vem marcada. Se mudar para **“Não”**, informe o motivo e anexe o comprovante (por exemplo, atestado médico).
 
-   **O roteiro ocorreu como cadastrado?**
-
+   **O roteiro ocorreu como cadastrado?**   
    Se houve mudança de voo, data ou roteiro, explique no campo de justificativa.
 
 6. **Comprovando cada trecho da viagem:**
@@ -198,12 +184,10 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
    - **Pendente:** toque no ícone do lápis, revise os dados, informe se houve alteração e anexe o comprovante de embarque.
    - **Inconsistência detectada:** a companhia informou o uso de um bilhete que estava inutilizado. Justifique.
 
-7. **Inclua despesas adicionais, se houver:**
-
+7. **Inclua despesas adicionais, se houver:**  
    Gastos realizados com autorização (por exemplo, bilhete de transporte não atendido pela agência contratada): informe valor, descreva a despesa e anexe o documento **“Comprovante de Gastos Autorizados”**.
 
-8. **Anexe o relatório e outros documentos.**
-
+8. **Anexe o relatório e outros documentos.**  
    No aplicativo, o Relatório de Viagem é exigido nas viagens internacionais. Nas nacionais, confirme a exigência com seu órgão.
 
    O link **“Exemplo de Relatório”** oferece um modelo. Antes de usá-lo, confirme se seu órgão aceita esse modelo.
@@ -212,10 +196,8 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 9. **Confira o Resumo e clique em “Encaminhar”.**
 
-    <p align="center">
-  <img src="images/Figura-2.png" alt="Figura 2" width="700">
-</p>
-
+![Figura 2](images/Figura-2.png)
+    
 !!! warning "Antes de enviar, confira os arquivos"
 
     Depois que a prestação é encaminhada, os arquivos não podem mais ser removidos. Confira se anexou os documentos certos e se é possível ler todas as informações.
