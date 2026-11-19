@@ -216,6 +216,10 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 9. **Confira o Resumo e clique em “Encaminhar”.**
 
+    <p align="center">
+  <img src="images/Figura-2.png" alt="Figura 2" width="700">
+</p>
+
 !!! warning "Antes de enviar, confira os arquivos"
 
     Depois que a prestação é encaminhada, os arquivos não podem mais ser removidos. Confira se anexou os documentos certos e se é possível ler todas as informações.
