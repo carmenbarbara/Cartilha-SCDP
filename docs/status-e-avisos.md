@@ -59,14 +59,15 @@ No aplicativo, o status aparece na parte de baixo do quadro com os dados da viag
 
 ## Notificações do aplicativo
 
+
 O aplicativo envia seis avisos:
 
-1. prepare-se para a viagem (véspera);
-2. prestação de contas (dia seguinte ao fim da viagem);
-3. aprovação de complementação de valores;
-4. pendência de devolução de valores;
-5. pendência na prestação de contas; e
-6. conclusão da prestação de contas.
+- prepare-se para a viagem (véspera)  
+- prestação de contas (dia seguinte ao fim da viagem)  
+- aprovação de complementação de valores  
+- pendência de devolução de valores  
+- pendência na prestação de contas  
+- conclusão da prestação de contas  
 
 Para receber no celular, ative as notificações nas configurações do aparelho e no aplicativo.
 
