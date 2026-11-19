@@ -499,6 +499,35 @@ A Central não aprova nem registra prestação de contas em nome do usuário. Ta
 
 ---
 
+# 15. Referências
+
+- BRASIL. Constituição da República Federativa do Brasil de 1988. Art. 70, parágrafo único.
+  
+
+- BRASIL. Decreto nº 5.992, de 19 de dezembro de 2006. Dispõe sobre a concessão de diárias no âmbito da administração federal direta, autárquica e fundacional.
+  
+
+- BRASIL. Decreto nº 6.258, de 19 de novembro de 2007. Altera o Decreto nº 5.992/2006, para dispor sobre o uso obrigatório do SCDP.
+  
+
+- BRASIL. Decreto nº 91.800, de 18 de outubro de 1985. Dispõe sobre viagens ao exterior e estabelece, no art. 16, relatório circunstanciado em 30 dias para viagens com ônus ou ônus limitado.
+  
+
+- BRASIL. Ministério do Planejamento, Orçamento e Gestão. Instrução Normativa SLTI/MP nº 3, de 11 de fevereiro de 2015. Dispõe sobre diretrizes e procedimentos para a concessão de diárias e passagens. Art. 19.
+  
+
+- BRASIL. Lei nº 8.429, de 2 de junho de 1992. Art. 11, VI (deixar de prestar contas quando esteja obrigado a fazê-lo).
+  
+
+- BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. Tutorial do Aplicativo do SCDP: visão do Proposto. Versão 1.0, jul. 2025. Portal de Compras do Governo Federal.
+  
+
+- BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. Manuais operacionais do SCDP (Solicitante de Viagem, Tutorial SCDP Web e Aplicativo). Disponível em: <a href="https://www.gov.br/compras/pt-br/acesso-a-informacao/manuais/manuais-scdp" target="_blank" rel="noopener noreferrer">https://www.gov.br/compras/pt-br/acesso-a-informacao/manuais/manuais-scdp</a>.
+  
+
+- BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. Central de Atendimento. Disponível em: <a href="https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/central-de-atendimento" target="_blank" rel="noopener noreferrer">https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/central-de-atendimento</a>.  
+
+---
 
 # 16. Glossário
 
