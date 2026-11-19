@@ -32,7 +32,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 # 9. Exceções e devolução de valores:  
 
-Assuntos relacionados: Prazo e consequências | Quando procurar a Central 
+**Assuntos relacionados:** Prazo e consequências | Quando procurar a Central 
 
 | SITUAÇÃO | O QUE FAZER |
 |-----------|-----------|
@@ -54,7 +54,7 @@ Assuntos relacionados: Prazo e consequências | Quando procurar a Central
 
 !!! warning "Atenção" 
 
-    Quando a viagem não ocorrer ou houver saldo de diárias a devolver, observe o prazo aplicável e a orientação do órgão. Não espere o     fim do prazo para emitir e pagar a guia. 
+    Quando a viagem não ocorrer ou houver saldo de diárias a devolver, observe o prazo aplicável e a orientação do órgão. Não espere o fim do prazo para emitir e pagar a guia. 
 
 ---
 
