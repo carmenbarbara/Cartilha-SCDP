@@ -45,7 +45,6 @@ Para fazer a prestação de contas pelo aplicativo SCDP. Preencha as informaçõ
 ✅ **Ainda tem dúvida?**
 
 Procure o Solicitante de Viagem responsável para confirmar se a prestação de contas será realizada pelo aplicativo ou pelo SCDP Web.
-
 <table style="width:100%; border-collapse:collapse;">
     <tr>
         <th style="padding:8px; border:1px solid #ddd;">Aspecto</th>
