@@ -30,11 +30,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 </div>
 
-# 5. Passo a passo pelo aplicativo
-
-<p align="center">
-  <img src="images/Figura-2.png" alt="Figura 2" width="700">
-</p>
+# 5. Passo a passo pelo aplicativo  
 
 1. Baixe o SCDP na Google Play ou na Aplicativo Store e entre com sua conta gov.br (Prata ou Ouro).
 
@@ -78,6 +74,10 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 9. **Confira o Resumo e clique em “Encaminhar”.**
 
 !!! warning "Antes de enviar, confira os arquivos"
+
+<p align="center">
+  <img src="images/Figura-2.png" alt="Figura 2" width="700">
+</p>
 
     Depois que a prestação é encaminhada, os arquivos não podem mais ser removidos. Confira se anexou os documentos certos e se é possível ler todas as informações.
 
