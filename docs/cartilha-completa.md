@@ -296,7 +296,7 @@ Se precisar alterar a PCDP depois de iniciar a prestação de contas, o Solicita
 
     As regras internas do seu órgão podem exigir outros documentos. Confirme a lista com o Solicitante de Viagem antes de entregar. Como boa prática administrativa também recomenda-se incluir convites, programações, certificados ou folders.
 
-## Problemas com o comprovante
+### Problemas com o comprovante
 
 | SITUAÇÃO | O QUE FAZER |
 |-----------|-----------|
