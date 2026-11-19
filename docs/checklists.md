@@ -60,8 +60,6 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 ☐ encaminhar ao aprovador dentro do prazo.  
 
- 
-
 ### Aprovador  
 
 ☐ verificar a coerência entre relatório, comprovantes e dados da PCDP;  
