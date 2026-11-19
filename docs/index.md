@@ -84,6 +84,7 @@ Você pode acessar as seções específicas utilizando o menu lateral ou navegar
 * [16. Guia Completo](cartilha-completa.md)
 
 ---
+
 <div style="display: flex; justify-content: flex-end; margin: 20px 0;">
 
 <button onclick="window.print()"
