@@ -32,14 +32,13 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 ### Coleção de Boas Práticas para Melhoria da Experiência do Usuário              
 
 # GUIA 02 - SISTEMA DE CONCESSÃO DE DIÁRIAS E PASSAGENS (SCDP) 
-
-<p style="font-weight: bold; color: #d9534f; margin-top: 10px; margin-bottom: 20px;">
-PÚBLICO-ALVO:  
-CADASTRADORES GERAIS, PARCIAIS E LOCAIS;    
-RESPONSÁVEIS INSTITUCIONAIS PELA GESTÃO DE ACESSOS;    
-SERVIDORES;    
-COLABORADORES EVENTUAIS;    
-EQUIPE DA CENTRAL DE ATENDIMENTO.    
+<p style="font-weight: bold; color: #d9534f; margin-top: 10px; margin-bottom: 20px; line-height: 1.8;">
+PÚBLICO-ALVO:<br>
+CADASTRADORES GERAIS, PARCIAIS E LOCAIS;<br>
+RESPONSÁVEIS INSTITUCIONAIS PELA GESTÃO DE ACESSOS;<br>
+SERVIDORES;<br>
+COLABORADORES EVENTUAIS;<br>
+EQUIPE DA CENTRAL DE ATENDIMENTO.
 </p>
 
 ### COMO USAR ESTA CARTILHA: 
