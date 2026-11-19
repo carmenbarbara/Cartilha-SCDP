@@ -171,10 +171,6 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 # 5. Passo a passo pelo aplicativo
 
-<p align="center">
-  <img src="images/Figura-2.png" alt="Figura 2" width="700">
-</p>
-
 1. Baixe o SCDP na Google Play ou na Aplicativo Store e entre com sua conta gov.br (Prata ou Ouro).
 
 2. Em "Minhas Atividades” aparecem as viagens que exigem ação. Todas as viagens estão em “Minhas Viagens a Serviço” (use o filtro “Prestação pendente” ou “Prestação a vencer”). Toque no quadro com os dados da viagem.
