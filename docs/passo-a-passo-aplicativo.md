@@ -51,9 +51,9 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 **O roteiro ocorreu como cadastrado?** 
 
-- Se houve mudança de voo, data ou roteiro, explique no campo de justificativa.
+Se houve mudança de voo, data ou roteiro, explique no campo de justificativa.
 
-6. **Comprovando cada trecho da viagem:**
+**6. Comprovando cada trecho da viagem:**
 
 <ul>
 <li><strong>Comprovação automática:</strong> Na modalidade Compra Direta, o SCDP confirmou com a companhia aérea o uso do bilhete. Você não precisa anexar o comprovante.</li>
@@ -67,7 +67,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
    
 Gastos realizados com autorização (por exemplo, bilhete de transporte não atendido pela agência contratada): informe valor, descreva a despesa e anexe o documento **“Comprovante de Gastos Autorizados”**.
 
-9. **Anexe o relatório e outros documentos.**
+8. **Anexe o relatório e outros documentos.**
     
 No aplicativo, o Relatório de Viagem é exigido nas viagens internacionais. Nas nacionais, confirme a exigência com seu órgão.
 
