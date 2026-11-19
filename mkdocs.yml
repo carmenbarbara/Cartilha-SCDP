@@ -11,18 +11,19 @@ nav:
       - "2. Quem faz o que no processo?": papeis-e-responsabilidades.md
       - "3. Prazo e consequências": prazo-e-consequencias.md
       - "4. Aplicativo no celular ou computador": aplicativo-ou-web.md
-      - "5. Passo a Passo no aplicativo": passo-a-passo-aplicativo.md
-      - "6. Passo a Passo no SCDP web": passo-a-passo-web.md
-      - "7. Documentos e comprovação de bilhetes": documentos.md
-      - "8. Minha prestação de contas voltou. E agora?": pendencias.md
-      - "9. Exceções e devoluções de valores": excecoes.md
-      - "10. Como acompanhar: status e avisos": status-e-avisos.md
-      - "11. Deu problema? Soluções rápidas": solucoes-rapidas.md
-      - "12. Quando e como procurar a Central de Atendimento": central-de-atendimento.md
-      - "13. Listas de verificação por perfil": checklists.md
-      - "14. Perguntas e respostas": perguntas-respostas.md
+      - "5. Passo a Passo no Aplicativo": passo-a-passo-aplicativo.md
+      - "6. Passo a Passo no SCDP Web": passo-a-passo-web.md
+      - "7. Documentos e Comprovação de Bilhetes": documentos.md
+      - "8. Minha Prestação de Contas Voltou. E agora?": pendencias.md
+      - "9. Exceções e Devoluções de Valores": excecoes.md
+      - "10. Como Acompanhar: Status e Avisos": status-e-avisos.md
+      - "11. Deu problema? Soluções Rápidas": solucoes-rapidas.md
+      - "12. Quando e Como Procurar a Central de Atendimento": central-de-atendimento.md
+      - "13. Listas de Verificação por Perfil": checklists.md
+      - "14. Perguntas e Respostas": perguntas-respostas.md
       - "15. Referências": referencias.md
-      - "16. Cartilha completa": cartilha-completa.md
+      - "16. Glossário:" glossario.md
+      - "17. Cartilha Completa": cartilha-completa.md
 
 extra_css:
   - custom.css
