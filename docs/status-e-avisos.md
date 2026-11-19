@@ -72,8 +72,6 @@ Para receber no celular, ative as notificações nas configurações do aparelho
 
 ---
 
----
-
 <div style="display: flex; justify-content: flex-end; margin: 20px 0;">
 
 <button onclick="window.print()"
