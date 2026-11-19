@@ -27,21 +27,25 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 </button>
 
-</div>
-
-### Coleção de Boas Práticas para Melhoria da Experiência do Usuário              
+</div>             
 
 # GUIA 02 - SISTEMA DE CONCESSÃO DE DIÁRIAS E PASSAGENS (SCDP) 
-<p style="font-weight: bold; color: #d9534f; margin-top: 10px; margin-bottom: 20px; line-height: 1.8;">
-PÚBLICO-ALVO:<br>
-CADASTRADORES GERAIS, PARCIAIS E LOCAIS;<br>
-RESPONSÁVEIS INSTITUCIONAIS PELA GESTÃO DE ACESSOS;<br>
-SERVIDORES;<br>
-COLABORADORES EVENTUAIS;<br>
-EQUIPE DA CENTRAL DE ATENDIMENTO.
-</p>
+<div style="color: #d9534f; font-weight: bold; margin-top: 10px; margin-bottom: 20px;">
 
-### COMO USAR ESTA CARTILHA: 
+PÚBLICO-ALVO:
+
+<ul style="color: #d9534f; margin-top: 8px;">
+    <li>CADASTRADORES GERAIS, PARCIAIS E LOCAIS</li>
+    <li>RESPONSÁVEIS INSTITUCIONAIS PELA GESTÃO DE ACESSOS</li>
+    <li>SERVIDORES</li>
+    <li>COLABORADORES EVENTUAIS</li>
+    <li>EQUIPE DA CENTRAL DE ATENDIMENTO</li>
+</ul>
+
+</div>
+
+
+### Como Usar Esta Cartilh: 
 O Sistema de Concessão de Diárias e Passagens (SCDP) é a ferramenta do Governo Federal utilizada para solicitar, aprovar, registrar e prestar contas de viagens a serviço, tanto nacionais quanto internacionais. 
 
 Esta cartilha orienta como prestar contas de uma viagem a serviço, tanto pelo aplicativo quanto pelo computador. Também apresenta as instruções para que o **Solicitante de Viagem** possa analisar e concluir o processo. Aqui, são apresentadas as **regras gerais** do SCDP. O seu órgão pode adotar normas internas complementares. 
