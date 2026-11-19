@@ -32,23 +32,18 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 # 4. Aplicativo ou computador: qual usar?
 
-texto introdutório
+Figura-3.png
 
-### O botão "Preencher" aparece no aplicativo?
 
-✅ **Sim**
+Para fazer a prestação de contas pelo aplicativo SCDP. Preencha as informações solicitadas, anexe os documentos necessários, revise os dados e toque em **"Encaminhar"**.
 
-Faça a prestação de contas pelo aplicativo SCDP. Preencha as informações solicitadas, anexe os documentos necessários, revise os dados e toque em **"Encaminhar"**.
+!!! warning "Atenção"
 
-✅ **Não**
-
-Verifique se aparece a mensagem: **"Prestação de Contas iniciada pelo órgão que cadastrou a viagem."**
-
-Se essa mensagem aparecer, a prestação de contas está sendo conduzida pelo Solicitante de Viagem no SCDP Web. Reúna os documentos necessários e encaminhe-os ao Solicitante responsável.
+    Se aparecer a mensagem **"Prestação de Contas iniciada pelo órgão que cadastrou a viagem"**, significa que o Solicitante de Viagem está conduzindo a prestação de contas no SCDP Web. Nesse caso, reúna os documentos necessários e encaminhe-os ao responsável pelo processo.
 
 ✅ **Ainda tem dúvida?**
 
-Procure o Solicitante de Viagem responsável pelo afastamento para confirmar se a prestação de contas será realizada pelo aplicativo ou pelo SCDP Web.
+Procure o Solicitante de Viagem responsável para confirmar se a prestação de contas será realizada pelo aplicativo ou pelo SCDP Web.
 
 <table style="width:100%; border-collapse:collapse;">
     <tr>
@@ -77,10 +72,6 @@ Procure o Solicitante de Viagem responsável pelo afastamento para confirmar se 
         <td style="padding:8px; border:1px solid #ddd; word-wrap:break-word;">Realizado no SCDP Web até a aprovação final.</td>
     </tr>
 </table>
-
-!!! warning "Atenção"
-
-    Se aparecer a mensagem **"Prestação de Contas iniciada pelo órgão que cadastrou a viagem"**, significa que o Solicitante de Viagem está conduzindo a prestação de contas no SCDP Web. Nesse caso, reúna os documentos necessários e encaminhe-os ao responsável pelo processo.
 
 ---
 
