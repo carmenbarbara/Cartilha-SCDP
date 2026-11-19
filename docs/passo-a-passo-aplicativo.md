@@ -45,24 +45,30 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 - Aguardando devolução de valores
 
 **A viagem ocorreu?**
+
 - A opção **“Sim”** já vem marcada.  
 - Se mudar para **“Não”**, informe o motivo e anexe o comprovante (por exemplo, atestado médico).
 
-**O roteiro ocorreu como cadastrado?**  
-Se houve mudança de voo, data ou roteiro, explique no campo de justificativa.
+**O roteiro ocorreu como cadastrado?** 
+
+- Se houve mudança de voo, data ou roteiro, explique no campo de justificativa.
 
 6. **Comprovando cada trecho da viagem:**
 
-- **Comprovação automática:** Na modalidade Compra Direta, o SCDP confirmou com a companhia aérea o uso do bilhete. Você não precisa anexar o comprovante.
+<ul>
+<li><strong>Comprovação automática:</strong> Na modalidade Compra Direta, o SCDP confirmou com a companhia aérea o uso do bilhete. Você não precisa anexar o comprovante.</li>
 
-- **Pendente:** toque no ícone do lápis, revise os dados, informe se houve alteração e anexe o comprovante de embarque.
+<li><strong>Pendente:</strong> toque no ícone do lápis, revise os dados, informe se houve alteração e anexe o comprovante de embarque.</li>
 
-- **Inconsistência detectada:** a companhia informou o uso de um bilhete que estava inutilizado. Justifique.
+<li><strong>Inconsistência detectada:</strong> a companhia informou o uso de um bilhete que estava inutilizado. Justifique.</li>
+</ul>
   
 7. **Inclua despesas adicionais, se houver:**
+   
 Gastos realizados com autorização (por exemplo, bilhete de transporte não atendido pela agência contratada): informe valor, descreva a despesa e anexe o documento **“Comprovante de Gastos Autorizados”**.
 
-8. **Anexe o relatório e outros documentos.**
+9. **Anexe o relatório e outros documentos.**
+    
 No aplicativo, o Relatório de Viagem é exigido nas viagens internacionais. Nas nacionais, confirme a exigência com seu órgão.
 
 O link **“Exemplo de Relatório”** oferece um modelo. Antes de usá-lo, confirme se seu órgão aceita esse modelo.
@@ -96,6 +102,7 @@ Antes de entrar em contato com a Central de Atendimento, tenha em mãos:
     Guarde o protocolo gerado, pois ele comprova o envio dos documentos.
 
 ## Resultado esperado
+
 Depois do envio, a situação muda para **“Encaminhada”**. O Solicitante analisa a prestação de contas e a autoridade decide sobre a aprovação. Após a aprovação, o processo é encerrcebe uma notificação.
 
 ---
