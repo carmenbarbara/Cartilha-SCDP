@@ -23,7 +23,7 @@ nav:
       - "14. Perguntas e Respostas": perguntas-respostas.md
       - "15. Glossário": glossario.md
       - "16. Referências": referencias.md
-      - "17. Cartilha Completa": cartilha-completa.md
+      - "17. Guia Completo": cartilha-completa.md
 
 extra_css:
   - custom.css
