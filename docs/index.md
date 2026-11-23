@@ -25,6 +25,9 @@ A+
 # GUIA 02 - SISTEMA DE CONCESSÃO DE DIÁRIAS E PASSAGENS (SCDP) 
 <div style="color: #d9534f; font-weight: bold; margin-top: 10px; margin-bottom: 20px;">
 
+    **Prestação de contas de viagens: pelo aplicativo ou pelo computador**
+    <ul style="color: #d9534f; margin-top: 8px;">
+
 PÚBLICO-ALVO:
 
 <ul style="color: #d9534f; margin-top: 8px;">
