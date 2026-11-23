@@ -154,6 +154,7 @@ Também é possível iniciar a prestação de contas antes da viagem, por exempl
 
 ---
 # 4. Aplicativo ou computador: qual usar?
+**Assuntos relacionados:** Passo a passo pelo aplicativo |  Passo a passo pelo computador
 
 ![Figura 3](images/Figura-3.png)
 
