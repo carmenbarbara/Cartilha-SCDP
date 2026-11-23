@@ -30,7 +30,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 </div>
 
-# 16. Glossário
+# 15. Glossário
 
 | TERMO | SIGNIFICADO |
 |--------|--------|
