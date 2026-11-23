@@ -31,8 +31,11 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 </div>
 
 # 4. Aplicativo ou computador: qual usar?
+Assuntos relacionados: Passo a passo pelo aplicativo |  Passo a passo pelo computador
 
 ![Figura 3](images/Figura-3.png)
+
+No aplicativo,  o Proposto recebe notificações, verifica cada item que precisa de correção e guarda o protocolo de envio. Isso ajuda o viajante e o Solicitante de Viagem a concluir o processo mais rapidamente.
 
 Para fazer a prestação de contas pelo aplicativo SCDP. Preencha as informações solicitadas, anexe os documentos necessários, revise os dados e toque em **"Encaminhar"**.
 
