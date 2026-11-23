@@ -33,9 +33,9 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 **Assuntos relacionados:** Documentos e bilhetes | Devolução de valores
 
-**-Proposto:** reúna os comprovantes, assine o relatório e entregue tudo ao Solicitante de Viagem.  
+- **Proposto:** reúna os comprovantes, assine o relatório e entregue tudo ao Solicitante de Viagem.  
 
-**-Solicitante:** SCDP Web › Prestação de Contas › selecione a viagem › confirme, anexe e encaminhe para aprovação.  
+- **Solicitante:** SCDP Web › Prestação de Contas › selecione a viagem › confirme, anexe e encaminhe para aprovação.  
 
 ### O que o Proposto faz
 
