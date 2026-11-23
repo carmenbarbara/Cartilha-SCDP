@@ -28,18 +28,13 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 </button>
 
 </div>             
-
 # GUIA 02 - SISTEMA DE CONCESSÃO DE DIÁRIAS E PASSAGENS (SCDP) 
 <div style="color: #d9534f; font-weight: bold; margin-top: 10px; margin-bottom: 20px;">
 
 PÚBLICO-ALVO:
 
 <ul style="color: #d9534f; margin-top: 8px;">
-    <li>CADASTRADORES GERAIS, PARCIAIS E LOCAIS</li>
-    <li>RESPONSÁVEIS INSTITUCIONAIS PELA GESTÃO DE ACESSOS</li>
-    <li>SERVIDORES</li>
-    <li>COLABORADORES EVENTUAIS</li>
-    <li>EQUIPE DA CENTRAL DE ATENDIMENTO</li>
+    <li>SERVIDORES E AGENTES PÚBLICOS USUÁRIOS DOS SERVIÇOS DO SISTEMA DE CONCESSÃO DE DIÁRIAS E PASSAGENS</li>
 </ul>
 
 </div>
