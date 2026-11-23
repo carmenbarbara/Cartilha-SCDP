@@ -158,6 +158,8 @@ Também é possível iniciar a prestação de contas antes da viagem, por exempl
 
 ![Figura 3](images/Figura-3.png)
 
+No aplicativo,  o Proposto recebe notificações, verifica cada item que precisa de correção e guarda o protocolo de envio. Isso ajuda o viajante e o Solicitante de Viagem a concluir o processo mais rapidamente.
+
 Para fazer a prestação de contas pelo aplicativo SCDP. Preencha as informações solicitadas, anexe os documentos necessários, revise os dados e toque em **"Encaminhar"**.
 
 !!! warning "Atenção"
