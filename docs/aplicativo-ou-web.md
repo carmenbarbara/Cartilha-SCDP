@@ -31,7 +31,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 </div>
 
 # 4. Aplicativo ou computador: qual usar?
-Assuntos relacionados: Passo a passo pelo aplicativo |  Passo a passo pelo computador
+**Assuntos relacionados:** Passo a passo pelo aplicativo |  Passo a passo pelo computador
 
 ![Figura 3](images/Figura-3.png)
 
