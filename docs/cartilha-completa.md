@@ -84,7 +84,8 @@ Você pode acessar as seções específicas utilizando o menu lateral ou navegar
 * [12. Quando e como procurar a central](central-de-atendimento.md)
 * [13. Listas de verificação por perfil](checklists.md)
 * [14. Perguntas e respostas](perguntas-respostas.md)
-* [15. Referências](referencias.md)
+* [15. Glossário](glossario.md)
+* [16. Referências](referencias.md)
 * [16. Guia Completo](cartilha-completa.md)
 
 ---
